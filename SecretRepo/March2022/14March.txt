@@ -1,0 +1,45 @@
+Do you have your law firm?/გაქვს შენი იურიდიული ფირმა?
+Cover a risk./დაფარო რისკი.
+This insurance policy doesn’t cover all risks./ეს სადაზღვეო პოლისი არ ფარავს ყველა რისკს.
+Let’s insure this office against fire./მოდი დავაზღვიოთ ეს ოფისი ხანძარზე.
+Faith/რწმენა
+Destiny/ბედისწერა
+Keep me posted./საქმის კურსში მამყოფე.
+I will let you know if something changes./მე შენ შეგატყობინებ თუ რამე შეიცვლება.
+Express your emotions./გამოხატო შენი ემოციები.
+This child was born two days ago./ეს ბავში დაიბადა ორი დღის წინ.
+I don’t want to put your life at risk./მე არ მინდა შენი სიცოცხლე რისკის ქვეშ დავაყენო.
+Watery/წყლიანი
+Fairy/ცეცხლოვანი
+Windy/ქარიანი
+Risky/სარისკო
+Cloudy/ღრუბლიანი
+Rusty/ჟანგიანი
+You take after your father./მამაშენს ჰგავხარ.
+We can’t take you on this month./ჩვენ არ შეგვიძლია აგიყვანოთ შტატში ამ თვეს.
+We can’t recruit you this month./ჩვენ არ შეგვიძლია აგიყვანოთ შტატში ამ თვეს.(ფორმალური)
+I can’t take on more projects this month I am already very busy./მე არ შემიძლია მეტი პროექტები ავიღო ამ თვეს, უკვე ძალიან დაკავებული ვარ.
+Take over./გადაიბარო
+Can you take over in five minutes?/შეგიძლია გადაიბარო ხუთ წუთში?
+Who will take over your business when you go to Europe?/ვინ გადაიბარებს შენს ბიზნესს როცა შენ წახვალ ევროპაში?
+Escape/გაქცევა
+Fingerprints/თითის ანაბეჭდები.
+We leave our fingerprints on everything we touch./ჩვენ ვტოვებთ თითის ანაბეჭდებს ყველაფერზე რასაც ვეხებით.
+Tell me everything you know./მითხარი ყველაფერი რაც იცი.
+I reserve the right to stay here./მე ვიტოვებ უფლებას რომ აქ დავრჩე.
+On average./საშუალოდ
+I train five people a day on average./მე საშუალოდ 5 ადამიანს ვავარჯიშებ დღეში.
+In advance./წინასწარ
+In-person/პირადად
+Let’s go to another restaurant for a change./მოდი სხვა რესტორანში წავიდეთ განსხვავებისთვის.
+Let’s do something else for a change./მოდი სხვა რამე გავაკეთოთ განსხვავებისთვის.
+What will you give me in return for this?/რას მომცემ ამის სანაცვლოდ?
+I am here on behalf of my client./მე აქ ვარ ჩემი კლიენტის სახელით. (Client)
+In detail./დეტალურად
+Let’s discuss everything in detail tomorrow./მოდი განვიხილოთ ყველაფერი დეტალურად ხვალ.
+This issue is under investigation now./ეს საკითხია გამოიძიება ახლა.
+This hotel is under construction in Tbilisi now./ეს სასტუმრო შენდება თბილისში ახლა.
+In search of something./რაღაცის ძიებაში.
+I went there in search of big money./მე იქ წავედი დიდი ფულის ძიებაში.
+You are trying in vain to persuade me./ამაოდ ცდილობ რომ დამარწმუნო.
+Close relatives./ახლო ნათესავები.

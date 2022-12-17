@@ -1,0 +1,56 @@
+Don’t worry./ნუ ნერვიულობ.
+Get ready for something./მოემზადო რაღაცისთვის.
+Attribute something./მიაწერე რაღაცა.
+I am afraid of such things./მე მეშინია ასეთი რაღაცეების.
+Do you agree with me?/მეთანხმები?
+How stressful is your job?/რამდენად სტრესულია შენი სამსახური?
+Group/ჯგუფი
+Team/გუნდი
+Stressful/სტრესული
+Stressless/უსტრესო
+Hopeless/უიმედო
+Homeless/უსახლკარო
+Let’s help the poor./მოდი დავეხმაროთ ღარიბებს.
+Don’t stress me out./ნუ მსტრესავ.
+You are bleeding from your lower lip./სისხლი მოგდის ქვედა ტუჩიდან.
+I appreciate it./მე ვაფასებ ამას.
+What is the reason for Julia’s absence?/რა არის ჯულიას არყოფნის მიზეზი?
+Sign these documents in my presence./ჩემი თანდასწრებით მოაწერე ამ დოკუმენტებს ხელი.
+Don’t sign these documents in my absence./არ მოაწერო ხელი ამ დოკუმენტებს ჩემი არყოფნისას.
+I know this for sure./ეს ზუსტად ვიცი.
+I feel like drinking./დალევის მუღამზე ვარ.
+I feel like dancing./ცეკვის მუღამზე ვარ.
+I am in the mood to dance./ცეკვის ხასიათზე ვარ.
+I am in the mood to drink./დალევის ხასიათზე ვარ.
+I want to buy this car./მე მინდა ვიყიდო ეს მანქანა.
+This wall wants painting./ამ კედელს უნდა შეღებვა.
+This wall needs painting./ამ კედელს შეღებვა სჭირდება.
+Repair something./შეაკეთო რაღაც. (ფორმალური)
+Fix something./შეაკეთო რაღაც.
+Can you fix my washing machine?/შეგიძლია შეაკეთო ჩემი სარეცხი მანქანა?
+Let’s continue to talk about this tomorrow./მოდი ხვალ გავაგრძელოთ ამაზე საუბარი. (Continue)(To talk)
+Let’s continue talking about this tomorrow./მოდი ხვალ გავაგრძელოთ ამაზე საუბარი. (Continue)(Talking)
+Refuse to do something./უარი თქვა რაღაცის გაკეთებაზე.
+Prepare to do something./მოემზადო გააკეთო რაღაცა. (Prepare)
+Fail to do something./კრახი განიცადო რაღაცის გაკეთებაში.
+I don’t want to fail to pass this exam./მე არ მინდა კრახი განვიცადო ამ გამოცდის ჩაბარებაში.
+Tend to do something./გახასიათებდეს რაღაცის გაკეთება.
+John tends to be late./ჯონს ახასიათებს დაგვიანება.
+You seem to be tired./დაღლილად გამოიყურები.
+I am preparing to pass this exam./მე ვემზადები ამ გამოცდის ჩასაბარებლად. (Prepare)
+Manage to do something./მოახერხო გააკეთო რაღაცა.
+Advise somebody to do something./ურჩიო ვიღაცას გააკეთოს რაღაცა.
+I advise you to go there./გირჩევ რომ წახვიდე იქ.
+Tell somebody to do something./უთხრა ვიღაცას გააკეთოს რაღაცა.
+Inspire somebody to do something./შთააგონო ვიღაცას გააკეთოს რაღაცა.
+I am on the spot and where are you?/მე ადგილზე ვარ და შენ სად ხარ?
+Find yourself doing something./იპოვო საკუთარი თავი რაღაცის კეთებაში.
+Reach a goal./მიაღწიო მიზანს.
+Attain a goal./მიაღწიო მიზანს. (ფორმალური)
+It doesn’t mean much to me./ეს ბევრს არ ნიშნავს ჩემთვის.
+This book is worth buying./ამ წიგნის ყიდვა ღირს.
+This dress is worth wearing to this party./ამ კაბის ჩაცმა ღირს ამ წვეულებაზე.
+Be at the root of something./იყო რაღაცის საფუძველში.
+What is at the root of your fears?/რა არის თქვენი შიშის საფუძველი?
+Have you ever found yourself worrying about what might happen, if you reach your goal? if so, it’s worth considering what success means to you, and what might be at the root of your fears./ოდესმე გიპოვია შენი თავი იმაზე დარდში, თუ რა შეიძლება მოხდეს თუ მიაღწევთ მიზანს? თუ კი, მაშინ ღირს დაფიქრდეთ რას ნიშნავს თქვენთვის წარმატება და რა არის თქვენი შიშის საფუძველი
+When they are cooking great meals they wear this on the head because they don’t want their hair to be discovered by customers when they eat the dishes./როდესაც ისინი ამზადებენ შესანიშნავ კერძებს, ისინი ატარებენ მას თავზე, რადგან არ სურთ, რომ მათი თმა კლიენტებმა აღმოაჩინონ, როდესაც ისინი კერძებს მიირთმევენ.

@@ -1,0 +1,34 @@
+Destiny/ბედისწერა
+Is this a new edition of this book?/ეს ამ წიგნის ახალი გამოცემაა?
+Do you want to add something?/გინდა დაამატო რამე?
+Do you need some help?/გჭირდება დახმარება?
+What is your final destination?/რა არის თქვენი საბოლოო დანიშნულების ადგილი?
+Nobody can forecast what may happen in the future./არავის შეუძლია პროგნოზი გააკეთოს რა შეიძლება მოხდეს მომავალში. (May)
+Nobody can forecast what might happen in the future./არავის შეუძლია პროგნოზი გააკეთოს რა შეიძლება მოხდეს მომავალში. (Might)
+Nobody can forecast what could happen in the future./არავის შეუძლია პროგნოზი გააკეთოს რა შეიძლება მოხდეს მომავალში. (Could)
+It can rain tomorrow./შეიძლება იწვიმოს ხვალ. (Can)(მაღალი ალბათობა)
+It could rain tomorrow./შეიძლება იწვიმოს ხვალ. (Could)(დაბალი ალბათობა)
+It may rain tomorrow./შეიძლება იწვიმოს ხვალ. (May)(მაღალი ალბათობა)
+It might rain tomorrow./შეიძლება იწვიმოს ხვალ. (Might)(დაბალი ალბათობა)
+John can call me tomorrow./ჯონმა შეიძლება დამირეკოს ხვალ. (Can)(მაღალი ალბათობა)
+John could call me tomorrow./ჯონმა შეიძლება დამირეკოს ხვალ. (Could)(დაბალი ალბათობა)
+John may call me tomorrow./ჯონმა შეიძლება დამირეკოს ხვალ. (May)(მაღალი ალბათბა)
+John might call me tomorrow./ჯონმა შეიძლება დამირეკოს ხვალ. (Might)(მაღალი ალბათობა)
+Be famous for something./იყო ცნობილი რაღაცის გამო.
+The Georgians are famous for their hospitality./ქართველები ცნობილნი არიან მათი სტუმართმოყვარეობით.
+I can run a kilometer in two minutes./მე შემიძლია ერთი კილომეტრის გარბენა ორ წუთში.
+It was three minutes to eight when John asked me if he could leave./რვას სამი წუთი აკლდა როცა ჯონმა მთხოვა წასულიყო.
+Let’s meet each other on Friday evening./მოდი შევხვდეთ ერთმანეთს პარასკევს საღამოს.
+I want to see you on Tuesday morning./მინდა გნახო სამშაბათს დილით.
+I will call you on Wednesday afternoon./მე დაგირეკავ ოთხშაბათს შუადღეს.
+Take this into account./გაითვალისწინეთ ეს.
+Take something into account./გაითვალისწინო რაღაცა.
+Take this into consideration./გაითვალისწინეთ ეს. (ფორმალური)
+I advise you to take out a mortgage from this bank./მე შენ გირჩევ გამოიტანო იპოთეკა ამ ბანკიდან.
+Liabilities/ვალდებულებები
+How much income do you generate a year?/რა რაოდენობის შემოსავალს გამოიმუშავებ წელიწადში? (Generate)(ფორმალური)
+You will get an opportunity to learn these things once and for all./თქვენ მიიღებთ შესაძლებლობას ისწავლოთ ეს რაღაცეები ერთხელ და სამუდამოდ.
+Access/წვდომა
+I don’t have access to this information./მე არ მაქვს წვდომა ამ ინფორმაციაზე.
+Keep me posted./საქმის კურსში მამყოფე.
+Sympathy/თანაგრძნობა

@@ -1,0 +1,41 @@
+Do you see the horizon?/ხედავ ჰორიზონტს?
+Fix a meeting./მოაწყო შეხვედრა.
+Arrange a meeting./მოაწყო შეხვედრა. (ფორმალური)
+Maintain eye contact with somebody./შეინარჩუნო თვალის კონტაქტი ვიღაცასთან.
+Make eye contact with somebody./თვალის კონტაქტი დაამყარო ვიღაცასთან.
+Make eye contact with John./თვალის კონტაქტი დაამყარე ჯონთან.
+Be in trouble./იყო შარში.
+We are in trouble./ჩვენ შარში ვართ.
+If you ask me we should draw up a new plan./მე თუ მკითხავ ჩვენ უნდა შევადგინოთ ახალი გეგმა.
+You should read this book because it’s very interesting./შენ უნდა წაიკითხო ეს წიგნი რადგან ის ძალიან საინტერესოა.
+I was having lunch when you called me./მე ლანჩს ვიღებდი როცა შენ დამირეკე.
+I am in bed./საწოლში ვარ.
+Stay in bed today./დარჩი საწოლში დღეს.
+I am still in bed./მე ჯერ კიდევ საწოლში ვარ.
+I have been in trouble for three days./სამი დღეა რაც შარში ვარ.
+Recently/ამ ბოლო დროს. (R)
+Lately/ამ ბოლო დროს. (L)
+You have been drinking much recently./შენ ამ ბოლო დროს ბევრს სვავ.
+How can we gain John’s trust?/როგორ შეგვიძლია მოვიპოვოთ ჯონის ნდობა?
+Brake/დამუხრუჭება
+Blot/მელნის ლაქა.
+This ugly statue is a blot on the landscape./ეს მახინჯი ქანდაკება აფუჭებს პეიზაჟს აფუჭებს.
+You will have to pay an advance if this happens./თქვენ მოგიწევთ ავანსის გადახდა თუ ეს მოხდება.
+Inborn/თანდაყოლილი
+This is an inborn skill./ეს არის თანდაყოლილი უნარი.
+How can you be so forgetful?/როგორ შეგიძლია იყო ასეთი გულმავიწყი?
+What time does this meeting start?/რომელ საათზე იწყება ეს შეხვედრა?
+This conference finishes at seven o’clock./ეს კონფერენცია მთავრდება 7 საათზე.
+While I was singing, you were dancing./სანამ მე ვმღეროდი, შენ ცეკვავდი.
+What were you doing while it was raining?/რას აკეთებდი სანამ წვიმდა?
+It has just rained./ახალხანს იწვიმა.
+By the time I came here, this book had been sold./იმ დროისათვის როცა მე აქ მოვედი, ეს წიგნი გაყიდული იყო.
+By the time I came back here, my wallet had been stolen./იმ დროისთვის როცა მე აქ დავბრუნდი, ჩემი საფულე მოპარული იყო.
+When I called John I had drunk coffee./როცა მე დავურეკე ჯონს, ყავა დალეული მქონდა.
+By the time I called John I had drunk coffee./იმ დროისათვის როცა მე დავურეკე ჯონს, ყავა დალეული მქონდა.
+I had been learning English for two years when I went to London./ორი წელი იყო რაც ინგლისურს ვსწავლობდი როცა მე წავედი ლონდონში.
+If you have questions, call me./თუ კითხვები გაქვთ, დამირეკეთ.
+Call me if you have questions./დამირეკეთ თუ კითხვები გაქვს.
+While it was raining, I was sitting here./სანამ წვიმდა, მე აქ ვიჯექი.
+Be strict with somebody./იყო მკაცრი ვიღაცასთან.
+Be grateful to somebody for something./იყო მადლიერი ვიღაცის რაღაცისთვის.

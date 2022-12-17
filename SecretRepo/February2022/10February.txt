@@ -1,0 +1,83 @@
+Planet/პლანეტა
+Universe/სამყარო
+Acceptable/მისაღები
+Unacceptable/მიუღებელი
+Church/ეკლესია
+Temple/ტაძარი
+Bishop/ეპისკოპოსი
+Surface/ზედაპირი
+Horizontal/ჰორიზონტალური
+Vertical/ვერტიკალური
+Horizon/ჰორიზონტი
+Irritation/გაღიზიანება
+This cream can cause skin irritation./ამ კრემს შეუძლია გამოიწვიოს კანის გაღიზიანება.
+Psychologist/ფსიქოლოგი
+Psychiatrist/ფსიქიატრი
+Pediatrician/პედიატრი
+Politician/პოლიტიკოსი
+Musician/მუსიკოსი
+Academician/აკადემიკოსი
+Electrician/ელექტრიკოსი
+Technician/ტექნიკოსი
+Overhear something./ყური მოკრა რაღაცას.
+I don’t want anyone to overhear our conversation./მე არ მინდა რომ ვიღაცამ ყური მოკრას ჩვენს საუბარს.
+Do you need some help?/გჭირდება დახმარება?
+Are you dating someone?/ხვდები ვინმეს?
+Change your mind./გადაიფიქრო.
+I am sure John will change his mind./დარწმუნებული ვარ ჯონი გადაიფიქრებს.
+Twentieth/მეოცე
+This happened in the twentieth century./ეს მოხდა მეოცე საუკუნეში.
+How do you think will John change his mind?/როგორ ფიქრობ ჯონი გადაიფიქრებს?
+What for?/რისთვის?
+What do you need this book for?/რაში გჭირდება ეს წიგნი?
+Sustainable/მდგრადი
+I want to see sustainable results after this training./მე მინდა დავინახო მდგრადი შედეგები ამ ტრეინინგს შემდეგ.
+We will need these materials./ჩვენ დაგვჭირდება ეს მასალები.
+You should change your mindset./შენ უნდა შეიცვალო შენი აზროვნების წესი.
+It is very important in the twenty-first century./ეს არის ძალიან მნიშვნელოვანი ოცდამეერთე საუკუნეში.
+Be careful, there is a fly in the room./ფრთხილად იყავი ოთახში ბუზია.
+Write this number in this cell./დაწერე ეს რიცხვი ამ უჯრაში.
+Inform somebody about something./შეატყობინო ვიღაცას რაღაცის შესახებ.
+Moderation/ზომიერება
+Moderation is good in everything./ზომიერება კარგია ყველაფერში.
+In moderation./ზომიერად
+Use this shampoo but in moderation./გამოიყენე ეს შამპონი, მაგრამ ზომიერად.
+Humanity/კაცობრიობა
+The history of mankind./კაცობრიობის ისტორია.
+Central heating./ცენტრალური გათბობა.
+We need a good central heating system./ჩვენ გვჭირდება კარგი ცენტრალური გათბობის სისტემა.
+John is a heavy drinker./ჯონი არის მაგარი მსმელი.
+John is a heavy smoker./ჯონი არის მაგარი მწეველი.
+This is a non-smoking zone./ეს არის არამწევლეთა ზონა.
+Such things don’t appeal to me./ასეთი რაღაცეები არ მხიბლავს.
+Construction workers./სამშენებლო მუშები.
+Our company employs more than ten thousand construction workers./ჩვენი კომპანია ასაქმებს ათი ათასზე მეტ სამშენებლო მუშას.
+There is a strong bond between my daughter and me./ჩემსა და ჩემს ქალიშვილს შორის ძლიერი კავშირია.
+I bond easily with such people./ასეთ ადამიანებთან ადვილად ვურთიერთობ.
+Ask me your questions./დამისვი შენი შეკითხვები.
+Question somebody./დაკითხო ვიღაც.
+Interrogate somebody./დაკითხო ვიღაც.(ფორმალური)
+When was this person questioned?/როდის დაიკითხა ეს ადამიანი?
+It is an honour for me to be your teacher./ჩემთვის პატივია ვიყო შენი მასწავლებელი.
+It is an honour for me to be your student./ჩემთვის პატივია ვიყო შენი სტუდენტი.
+I misunderstood it./მე არასწორად გავიგე.
+Why did you misbehave yesterday?/რატომ მოიქეცი გუშინ ცუდად?
+In recent years./ბოლო წლებში.
+Your name will be of value to us./შენი სახელი იქნება ღირებული ჩვენთვის.
+These products are of low quality./ეს პროდუქტები დაბალი ხარისხისაა.
+This sofa is of high quality./ეს დივანი არის მაღალი ხარისხის.
+Refrain from something./თავი შეიკავო რაღაცისგან.
+In my practice./ჩემს პრაქტიკაში.
+Doing this is in your best interest./ამის კეთება შენს ტოპ ინტერესშია.
+Maintain/შენარჩუნება
+Allow yourself more leeway./მისცე შენ თავს მეტი თავისუფლება.
+We can not allow ourselves more leeway at this stage./ჩვენ არ შეგვიძლია მივცეთ საკუთარ თავებს მეტი თავისუფლება ამ ეტაპზე.
+I have always been impressed by your stand on issues./ჩემზე ყოველთვის ახდენდა შთაბეჭდილებას თქვენი პოზიციები საკითხებზე.
+Particularly/განსაკუთრებით
+Please find this file in the attachments./გთხოვთ მოძებნეთ ეს ფაილი მიბმულ ფაილებში.
+Ally./მოკავშირე
+They are our allies./ისინი არიან ჩვენი მოკავშირეები.
+Allied forces./მოკავშირე ძალები.
+Air forces./საჰაერო ძალები.
+Military forces./სამხედრო ძალები.
+Armed forces./შეირაღებული ძალები.

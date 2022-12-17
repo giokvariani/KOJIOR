@@ -1,0 +1,46 @@
+Down payment./პირველადი შენატანი.
+Nightshift/ღამის ცვლა.
+Morning shift./დილის ცვლა.
+You have spoiled everything./შენ ყველაფერი გააფუჭე.
+I am sure this price will remain steady at twenty Gel./მე ვარ დარწმუნებული ეს ფასი დარჩება ოც ლარზე.
+Gradually/თანდათან
+Your English will improve gradually./შენი ინგლისური გაუმჯობესდება თანდათან.
+Actively/აქტიურად
+You have achieved much at your age./შენ მიაღწიე ბევრს შენ ასაკში.
+I don’t like your attitude to your friends./მე არ მომწონს შენი დამოკიდებულება შენი მეგობრების მიმართ.
+Complete silence, please./სრული სიჩუმე, გთხოვთ.
+Are you online?/ხაზზე ხარ?
+Are you offline?/ოფლაინი ხარ?
+Where are your subordinates?/სად არიან შენი დაქვემდებარებულები?
+Save somebody’s life./გადაარჩინო ვიღაცის სიცოცხლე.
+You saved my life yesterday./შენ გადამარჩინე გუშინ.
+Loan/სესხი
+Can you give me this loan?/შეგიძლია მომცე ეს სესხი?
+Can you grant me this loan?/შეგიძლიათ მომცეთ ეს სესხი?
+Gain somebody’s trust./მოიპოვო ვიღაცის ნდობა.
+Once and for all./ერთხელ და სამუდამოდ.
+Live and let live./იცხოვრო და არ შეუშალო ხელი სხვას ცხოვრებაში.
+John was wounded yesterday./ჯონი გუშინ დაიჭრა.
+A stitch in time saves nine./დროული ერთი ნაკერი, ცხრა დაზოგილი.
+It is better to solve a problem now until it may be more difficult to deal with./სჯობს პრობლემის გადაჭრა ახლავე, სანამ უფრო რთული იქნება მასთან გამკლავება.
+How can you deal with such difficult customers?/როგორ შეგიძლია გაუმკლავდე ამგვარ რთულ კლიენტებს?
+It is a drop in the ocean./ეს ზღვაში წვეთია.
+Modern convenience./თანამედროვე კომფორტი.
+Let’s meet at your earliest convenience./მოდი შევხვდეთ შენთვის ადრეულ ხელსაყრელ დროს.
+Let’s go back to that sentence./მოდი დავუბრუნდეთ იმ წინადადებას.
+What makes life easy and comfortable?/რა ხდის ცხოვრებას ადვილს და კომფორტულს?
+What can make our business more profitable?/რითი გავხადოთ ჩვენი ბიზნესი უფრო მომგებიანი?
+I want to rent a flat that has all the modern conveniences./მე მინდა ვიქირაო ბინა, რომელსაც აქვს ყველა თანამედროვე კომფორტი.
+Add something to something./დაამატო რაღაცას რაღაცა.
+Would you like to add something to this?/გსურთ რამე დაამატოთ ამას?
+Don’t forget to add salt to this dish./არ დაგავიწყდეს დაამატო მარილი ამ კერძს.
+Let’s not add fuel to the fire./ცეცლზე ნავთს ნუ დაასხავ.
+I am having these walls painted./მე ამ კედლებს ვაღებინებ.
+I had these walls painted yesterday./მე შევაღებინე ეს კედლები გუშინ.
+I was having my car washed when you called me./მე ვარეცხინებდი ჩემს მანქანას როცა შენ მე დამირეკე.
+He had his leg amputated yesterday./მას ფეხი მოკვეთეს გუშინ.
+I wish I had not parked my car yesterday./ნეტავ გუშინ ჩემი მანქანა არ დამეყენებინა.
+I wish I had not had my car parked yesterday./ნეტავ გუშინ ჩემი მანქანა არ დამეყენენებინა.
+Such resources are scarce./ასეთი რესურსები არის დეფიციტური.
+We have a scarcity of resources./რესურსების დეფიციტი გვაქვს.
+Why are these wine glasses upside down?/რატომ არის ეს ღვინის ჭიქები თავდაყირა?

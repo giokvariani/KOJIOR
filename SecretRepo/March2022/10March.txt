@@ -1,0 +1,64 @@
+Your comments are flattering./შენი კომენტარები არის მაამებელი.
+Personal trainer./პირადი ტრენერი.
+Commit to do something./დადო დაპირება რომ გააკეთო რაღაც.
+Offensive/შეურაცხმყოფელი
+Your comments are offensive./შენი კომენტარები არის შეურაცხმყოფელი.
+It’s raining lightly./მსუბუქად წვიმს.
+Membership/წევრობა
+How important is this?/რამდენად მნიშვნელოვანია ეს?
+When will you be here?/როდის იქნები აქ?
+Have a bad cough./ცუდად ახველებდე.
+Let’s put off this meeting./მოდი გადავდოთ ეს შეხვედრა.
+Let’s postpone this meeting./მოდი გადავდოთ ეს შეხვედრა.(ფორმალური)
+You are doing this deliberately./შენ განზრახ აკეთებ ამას.
+You are doing this on purpose./შენ ამას გამიზნულად აკეთებ.
+Fashion/მოდა
+Fashionable/მოდური
+Fashionably dressed./მოდურად ჩაცმული.
+Dressed in a sophisticated way./დახვეწილად ჩაცმული.
+She was dressed in a sophisticated way./ის(მდედრობითი) იყო დახვეწილად ჩაცმული.
+Julia greeted me in a friendly way./ჯულია მომესალმა მეგობრულად.
+Julia smiled in a lovely way two minutes ago./ჯულიამ გაიცინა საყვარლად ორი წუთის წინ.
+Goods/საქონელი
+We have new goods from Italy./ჩვენ გვაქვს ახალი საქონელი იტალიიდან.
+Awkward/უხერხული
+Don’t ask me awkward questions./ნუ მისმევ უხერხულ კითხვებს.
+Are you good at drawing?/კარგი ხარ ხაზვაში?
+Draw a conclusion./გამოიტანო დასკვნა.
+What conclusion can we draw from this?/რა დასკვნა შეგვიძლია გამოვიტანოთ აქედან?
+In advance./წინასწარ
+I know exactly what you are doing./მე ზუსტად ვიცი რას აკეთებ.
+Inner beauty./შინაგანი სილამაზე.
+I see your inner beauty./მე ვხედავ შენს შინაგან სილამაზეს.
+Manners/მანერები
+You have bad manners./შენ გაქვს ცუდი მანერები.
+You should have good table manners./შენ უნდა გქონდეს კარგი სუფრის მანერები.
+Offer somebody something./შესთავაზო ვიღაცას რაღაცა.
+What new can you offer us?/ახალი რა შეგიძლია შემოგვთავაზო?
+It’s a draw./ფრეა
+It was a draw when you called me./ფრე იყო როცა დამირეკე.
+I am not interested in such things./მე არ მაინტერესებს ასეთი რაღაცეები.
+Analyze something./გაანალიზო რაღაც.
+What does this salad contain?/რას შეიცავს ეს სალათი?
+Noticeable/შესამჩნევი
+Competitor/კონკურენტი
+You are our main competitor on the market./თქვენ ხართ ჩვენი მთავარი კონკურენტი ბაზარზე.
+Rival/მეტოქე
+Rivalry/მეტოქეობა
+Slave/მონა
+Slavery/მონობა
+I am not your rival./მე არ ვარ შენი მეტოქე.
+Fear/შიში
+Fearless/უშიშარი
+Balanced/გაწონასწორებული
+Keep your balance./შეინარჩუნო წონასწორობა.
+Sometimes it’s hard for me to keep my balance and I am afraid to fall over./ზოგჯერ მიჭირს წონასწორობის შენარჩუნება და დაცემის მეშინია.
+Arrogance/ქედმაღლობა
+Let’s find out where John is./მოდი გავარკვიოთ სად არის ჯონი.
+I feel sick./გული მერევა(ბრიტანული)
+Religious/რელიგიური
+How religious are you?/რამდენად რელიგიური ხარ?
+I don’t want to offend you in any way./მე არ მინდა რამენაირად შეურაგცხყო. (Offend)
+I have always been interested in such things./მე ყოველთვის მაინტერესებდა ასეთი რაღაცეები.
+This mobile phone has new features./ამ ტელეფონს აქვს ახალი ფუნქციები.
+Don’t insult me./შეურაცხყოფას ნუ მაყენებ. (Insult)

@@ -1,0 +1,54 @@
+Decision/გადაწყვეტილება
+Air tickets./ავიაბილეთები
+You should read this book./შენ უნდა წაიკითხო ეს წიგნი. (Should)
+You ought to read this book./შენ უნდა წაიკითხო ეს წიგნი. (Ought to)
+Achieve a goal./მიაღწიო მიზანს. (Achieve)
+Reach a goal./მიაღწიო მიზანს. (Reach)
+Target/სამიზნე
+Middle-aged people./შუახნის ხალხი.
+Who is your target audience?/ვინ არის თქვენი სამიზნე აუდიტორია?
+Meet a target./მიზანს მიღწიო. (Target)
+You love yourself too much./შენ ზედმეტად გიყვარს შენი თავი.
+Everything depends on you./ყველაფერი შენზეა დამოკიდებული.
+I don’t like your attitude to your students./მე არ მომწონს შენი დამოკიდებულება.
+Are you addicted to drugs?/ნარკოტიკებზე ხარ დამოკიდებული?
+My brother has always loved surfing./ჩემს ძმას ყოველთვის უყვარდა სერფინგი.
+Surfing/სერფინგი
+Wrestling/ჭიდაობა
+Strategy/სტრატეგია
+I have never wanted to do this./მე არასდროს მინდოდა ამის გაკეთება.
+My cat’s food./ჩემი კატის საკვები.
+The design of this room./ამ ოთახის დიზაინი.
+John lives and breathes it./ჯონი საზრდოობს(ცხოვრობს და სუნთქავს) ამით.
+Be in your element./ბედნიერად და კომფორტულად გრძნობდე თავს. (იყო შენს ელემენტში)
+Julia thinks that John spends too much time surfing./ჯულია ფიქრობს რომ ჯონი ძალიან ბევრ დროს ატარებს სერფინგში.
+I don’t want to spend much time watching tv./მე არ მინდა რომ დიდი დრო გავატარო ტელევიზორის ყურებაში.
+I don’t want to spend two hours waiting for you./მე არ მინდა რომ ორი საათი გავატარო შენს ლოდინში.
+I have just called you./ახალხანს დაგირეკე.
+I have always wanted to work with you./ყოველთვის მინდოდა შენთან ერთად მუშაობა.
+I have just listened to this song./მე ახალხანს მოვუსმინე ამ სიმღერას.
+Life is too short./ცხოვრება ძალიან ხანმოკლეა.
+Life goes on./ცხოვრება გრძელდება.
+Time flies./დრო მიქრის.
+Life is too short to waste time worrying./ცხოვრება ძალიან მოკლეა იმისთვის, რომ გაფლნაგო ნერვიულობაში.
+I don’t want to waste two years doing this./მე არ მინდა რომ ორი წელი გავფლანგო ამის კეთებაში.
+I want to see you in person./პირადად მინდა გნახო.
+In advance./წინასწარ
+On average./საშუალოდ
+I am innocent of this./მე უდანაშაულო ვარ ამაში.
+I am proud of you./მე ვამაყობ შენით.
+Pay money for something./გადაიხადო ფული რაღაცაში.
+I am not going to pay ten dollars for this book./მე არ ვაპირებ გადავიხადო ათი დოლარი ამ წიგნში.
+Don’t spend so much money on books./ნუ ხარჯავ ამდენ ფულს წიგნებზე.
+From time to time./დრო და დრო.
+In full./სრულად
+Shall I send this file in full?/სრულად გამოგიგზავნოთ ეს ფაილი?
+For example, I am here on behalf of my customer./მაგალითად, მე აქ ვარ ჩემი კლიენტის სახელით.
+Representative/წარმომადგენლი
+Let’s go to lake titicaca./მოდი წავიდეთ ტბა ტიტიკაკაზე.
+The love I have for you./სიყვარული, რომელიც მაქვს შენდამი.
+Love is a good feeling./სიყვარული კარგი გრძნობაა.
+I need a table./მე მჭირდება მაგიდა.
+What you need is love./რაც გჭირდება სიყვარულია.
+All we need is love./ყველაფერი, რაც ჩვენ გვჭირდება ეს სიყვარულია.
+Send me this file in full./გამომიგზავნე ეს ფაილი სრულად.

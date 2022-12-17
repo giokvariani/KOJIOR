@@ -1,0 +1,76 @@
+You are a very good person./შენ ძალიან კარგი ადამიანი ხარ.
+Do you believe in god?/ღმერთის გწამს?
+Ghost/მოჩვენება
+I don’t believe in ghosts./მე არ მჯერა მოჩვენებების.
+How adventurous are you?/რამდენად თავგადასავლების მოყვარული ხარ?
+This wall has just been painted./ეს კედელი შეიღება ახლახანს.
+Nobody is perfect./არავინ არის სრულყოფილი.
+John is only human./ჯონიც ადამიანია.
+Despite/მიუხედავად იმისა. (Despite)
+Rumour/ჭორი
+The rumour has it that./ჭორი დადის რომ.
+Mental/გონებრივი
+Strong/ძლიერი
+Modern/თანამედროვე
+Cognac/კონიაკი
+Hero/გმირი(კაცი)
+Heroine/გმირი(ქალი)
+Warning/გაფრთხილება
+Influence/გავლენა
+Influential people./გავლენიანი ხალხი.
+Quite expensive./საკმაოდ ძვირი. (Quite)
+Pretty expensive./საკმაოდ ძვირი. (Pretty)
+Fairly expensive./საკმაოდ ძვირი. (Fairly)
+We don’t provide this service in Georgia./ჩვენ არ ვთავაზობთ ამ მომსახურებას საქართველოში.
+The sooner, the better./რაც მალე მით უკეთესი.
+Recharge your batteries./აღიდგინო ძალები.
+Give me ten days to recharge my batteries./მომეცი ათი დღე რომ აღვიდგინო ძალები.
+Can I speak to John, please?/ჯონს სთხოვეთ თუ შეიძლება?
+John isn’t available./ჯონი არ არის ხელმისაწვდომი.
+I can’t afford to drink this cognac I have a meeting tomorrow./მე ვერ მოვახერხებ ამ კონიაკის დალევას მე ხვალ შეხვედრა მაქვს.
+District/უბანი
+I can’t afford to live in this district./მე ვერ მოვახერხებ ფინანსურად ამ უბანში ცხოვრებას.
+I am looking forward to seeing you./მოუთმენლად ველოდები რომ გნახო.
+I look forward to seeing you./მოუთმენლად ველოდები თქვენს ხილვას.
+We are in a difficult situation now./რთულ სიტუაციაში ვართ ახლა.
+What makes your phone different from mine?/რა განასხვავებს შენს ტელეფონს ჩემისგან?
+How can we make this business more profitable?/როგორ შეგვიძლია გავხადოთ ეს ბიზნესი უფრო მომგებიანი?
+For the better./უკეთესობისკენ
+For the worse./უარესობისკენ
+Throw these books away./გადაყარე ეს წიგნები.
+In my opinion./ჩემი აზრით. (Opinion)
+In my view./ჩემი აზრით. (View)
+To my mind./ჩემი აზრით. (Mind)
+From my point of view./ჩემი აზრით. (Point of view)
+Start a business./ბიზნესის დაწყება.
+Set up a business./ბიზნესის დაწყება.
+Are you enjoying watching this movie?/გსიამოვნებს ამ ფილმის ყურება? (Movie)
+Have you finished playing this instrument?/დაასრულე ამ ინსტრუმენტზე დაკვრა?
+I promise to learn English well./პირობას ვდებ რომ ვისწავლი ინგლისურს კარგად.
+I promise you to learn English well./გპირდები რომ ვისწავლი ინგლისურს კარგად.
+Pretend/თავის მოკატუნება.
+John pretended to be asleep when I saw him./ჯონმა თავი მოიკატუნა რომ ეძინა როცა მე ის ვნახე.
+Teach me how to play this instrument./მასწავლე ამ ინსტრუმენტზე დაკვრა.
+When will you teach me how to drive?/როდის მასწავლი ტარებას?
+I am looking forward to buying a new car./მოუთმენლად ველოდები ახალი მანქანის ყიდვას.
+I look forward to buying a new car./მოუთმენლად ველოდები ახალი მანქანის ყიდვას.(ფორმალური)
+I look forward to this concert./მოუთმენლად ველოდები ამ კონცერტს. (ფორმალური)
+Julia is sleeping now./ჯულიას სძინავს ახლა.
+When are you flying to Italy?/როდის მიფრინავ იტალიაში? (დაგეგმილი)
+When will you fly to Italy?/როდის მიფრინავ იტალიაში? (სპონტანური)
+We are going to die./მოვკდვდებით.
+I sleep in this room./მე ამ ოთახში მძინავს.
+I am sleeping in this room this week./ამ კვირას მე ამ ოთახში მძინავს.
+My English is getting better with every lesson./ჩემი ინგლისური უმჯობესდება ყოველ გაკვეთილზე.
+I know you inside out./მოხარშულს გიცნობ.
+Let’s change the subject./მოდი შევცვალოთ თემა.
+I am tired of speaking about this./მე ვარ დაღლილი ამაზე საუბრით.
+I am sick and tired of this./ყელში ამომივიდა ეს.
+What does this depend on?/რაზე არის ეს დამოკიდებული?
+Go to your head./თავში აგივარდეს.
+I don’t want this to go to your head./მე არ მინდა რომ ეს თავში აგივარდეს.
+I am hopeless at physics./მე ვარ ჩაინიკი ფიზიკაში.
+Superstition/ცრურწმენა
+Superstitious/ცრუმორწმუნე
+How superstitious are you?/რამდენად ცრუმორწმუნე ხარ?
+Bulb/ნათურა

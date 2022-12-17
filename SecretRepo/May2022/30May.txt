@@ -1,0 +1,31 @@
+How satisfied are you with our service?/რამდენად კმაყოფილი ხარ ჩვენი მომსახურეობით?
+Serve this customer./მოემსახურეთ ამ კლიენტს.
+I want to invest my money profitably and I think I will manage to do so./მე მინდა დავაბანდო ჩემი ფული მომგებიანად და ვფიქრობ მოვახერხებ რომ გავაკეთო ასე.
+Avoid something./თავი აარიდო რაღაცას.
+Avoid such problems./თავი აარიდე ასეთ პრობლემებს.
+Not only Tbilisi, but also Batumi./არა მხოლოდ თბილისი, ბათუმიც.
+Encourage somebody to do something./წაახალისო ვიღაცა გააკეთოს რაღაცა.
+Encourage your staff to work better./წაახალისე შენი თანამშრომლები(სტაფი) რომ იმუშაობ უკეთესად.
+Work remotely./იმუშაო დისტანციურად.
+Let’s work remotely this month./მოდი დისტანციურად ვიმუშაოთ ამ თვეს.
+Double-check something./გადაამოწმო რაღაცა.
+Let’s check our sentences./მოდი შევამოწმოთ ჩვენი წინადადებები.
+Let’s not dance today./მოდი არ ვიცეკვოთ დღეს.
+Let’s not buy this car./მოდი არ ვიყიდოთ ეს მანქანა.
+Invisible/უხილავი
+Visible/ხილვადი
+Energetic/ენერგიული
+Energetically/ენერგიულად
+Dance energetically./იცეკვე ენერგიულად.
+Strategically right./სტრატეგიულად სწორი.
+This decision was strategically right./ეს გადაწყვეტილება იყო სტრატეგიულად სწორი.
+Compete with somebody./შეეჯიბრო ვიღაცას.
+It is the most expensive office in Georgia./ეს არის ყველაზე ძვირადღირებული ოფისი საქართველოში.
+The book I bought yesterday./წიგნი, რომელიც მე გუშინ ვიყიდე.
+The course I am doing./კურსი, რომელსაც გავდივარ.
+Is this the book you bought yesterday?/ეს ის წიგნია, რომელიც გუშინ იყიდე?
+Is this the car you are going to start?/ეს ის მანქანაა, რომლის დაქოქვასაც აპირებ?
+Is this the woman you love?/ეს ის ქალია, რომელიც გიყვარს?
+This car is not good enough for me./ეს მანქანა არ არის საკმარისად კარგი ჩემთვის.
+This course is not interesting enough for me./ეს კურსი არ არის საკმარისად საინტერესო ჩემთვის.
+I don’t like your attitude to your students./მე არ მომწონს შენი დამოკიდებულება შენი სტუნდეტების მიმართ.

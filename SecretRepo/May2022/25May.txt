@@ -1,0 +1,49 @@
+In recent years./ბოლო წლებში.
+We have seen many changes in recent years./ჩვენ ბევრი ცვლილება ვნახეთ ბოლო წლებში.
+Delicious/გემრიელი (D)
+Tasty/გემრიელი (T)
+Impressive/შთამბეჭდავი
+Arguable/საკამათო (A)
+Controversial/საკამთო (Co)
+Don’t you know that it is a controversial issue?/არ იცი რომ ეს საკამთო საკითხია? (Co)
+Don’t you know that it is an arguable issue?/არ იცი რომ ეს საკამათო საკითხია? (A)
+Cheap/იაფი
+Expensive/ძვირი
+Friendly/მეგობრული
+Loving/მოსიყვარულე
+Understanding/გამგებიანი
+Developing/გავითარებადი
+Developed/განვითარებული
+I am not surprised at all./საერთოდ არ მიკვირს.
+I confirm that I was here yesterday./მე ვადასტურებ რომ მე აქ ვიყავი გუშინ.
+Be in favour of something./იყო რაღაცის მომხრე.
+I am in favour of your candidacy./მე თქვენი კანდიდატურის მომხრე ვარ.
+This film is boring and that’s why I am bored./ეს ფილმი არის მოსაწყენი და ამიტომაც ვარ მოწყენილი.
+Interesting/საინტერესო
+Interested/დაინტერესებული
+Clean/სუფთა
+Dirty/ბინძური
+Dusty/მტვრიანი
+Rusty/ჟანგიანი
+Towel/პირსახოცი
+Dry your hands with this towel./გაიწმინდე ხელები ამ პირსახოცით.
+Save somebody’s life./გადაარჩინო ვიღაცა სიკვდილს.
+Vulnerable/დაუცველი
+Be vulnerable to something./იყო დაუცველი რაღაცის მიმართ.
+I don’t want our company to be vulnerable to such risks./მე არ მინდა რომ ჩვენი კომპანია იყოს დაუცველი ასეთი რისკებისთვის.
+This question took me seven seconds to answer./ამ კითხვაზე პასუხის გასაცემად დამჭირდა შვიდი წამი.
+I want to add something to what we have been discussing./მე მინდა დავამატო რაღაც, რაზეც ჩვენ განვიხილავდით.
+I am giving a lesson./მე გაკვეთილს ვატარებ.
+I have been giving a lesson since eight o’clock./მე გაკვეთილს ვატარებ რვა საათის მერე.
+I have been giving a lesson for one hour./ერთი საათია რაც გაკვეთილს ვატარებ.
+I was giving a lesson when you called me./მე გაკვეთილს ვატარებდი, როცა შენ მე დამირეკე.
+What were you doing while John was sitting there?/რას აკეთებდი სანამ ჯონი იქ იჯდა.
+I have just joined your lecture./მე ახალხანს შევუერთდი შენს ლექციას.
+Such letters are written every day./ასეთი წერილები ყოველდღე იწერება.
+The faster we do this, the more time we will have to have fun./რაც უფრო სწრაფად გავაკეთებთ ამას, მით უფრო მეტი დრო გვექნება გასართობად. (Fun)
+The faster we do this, the more time we will have to have a good time./რაც უფრო სწრაფად გავაკეთებთ ამას, მით უფრო მეტი დრო გვექნება გასართობად. (Good time)
+The faster we do this, the more time we will have to enjoy ourselves./რაც უფრო სწრაფად გავაკეთებთ ამას, მით უფრო მეტი დრო გვექნება გასართობად. (Enjoy)
+It was you who saved my life yesterday./ეს შენ იყავი, ვინც სიკვდილს გადამარჩინა გუშინ.
+Have you bought this book already?/იყიდე ეს წიგნი უკვე?
+Have you already bought this book?/იყიდე უკვე ეს წიგნი?
+Have you bought this book yet?/უკვე იყიდე ეს წიგნი? (Yet)

@@ -1,0 +1,41 @@
+Inherit something from somebody./მემკვიდრეობით მიიღო რაღაცა ვიღაცისგან.
+Ask for directions./იკითხო გზა(მიმართულებები).
+Let’s ask for directions./მოდი გზა ვიკითხოთ.
+Criticize somebody for something./გააკრტიკო ვიღაცა რაღაცისთვის.
+Arrest somebody for something./დააპატიმრო ვიღაცა რაღაცისთვის.
+Fine somebody for something./დააჯარიმო ვიღაცა რაღაცისთვის.
+Be grateful to somebody for something./იყო მადლიერი ვიღაცის რაღაცისთვის.
+Exist/არსებობს
+Existing problems./არსებული პრობლემები.
+Let’s go on./მოდი გავაგრძელოთ.
+Let’s move on to the next slide./მოდი გადავიდეთ შემდეგ სლაიდზე.
+Spend time doing something./გაატარო დრო რაღაცის კეთებაში.
+I don’t want to spend two hours waiting for you./მე არ მინდა რომ გავატარო ორი საათი შენს ლოდინში.
+Chat somebody up./შეაბა ვიღაც.
+Stand somebody up./გადააგდო ვიღაც(არა ფიზიკურად).
+Don’t stand me up tomorrow./არ გადამაგდო ხვალ.
+Let somebody down./დააღალატო ვიღაც.
+Don’t let me down./არ დამაღალატო.
+Justice/სამართლიანობა
+Injustice/უსამართლობა
+Praise somebody for something./შეაქო ვიღაცა რაღაცისთვის.
+Call the police./დაურეკე პოლიციას.
+Call an ambulance./დაურეკე სასწრაფოს.
+Have you been to Africa?/ნამყოფი ხარ აფრიკაში?
+Has John been to Africa?/ჯონი ნამყოფი არის აფრიკაში?
+Many people populate New york./ბევრი ადამიანი დასახლებულია ნიუ-იორკში.
+Densely populated./მჭიდროდ დასახელებული.
+Tbilisi is densely populated./თბილისი არის მჭიდროდ დასახლებული.
+This is a densely populated region./ეს არის მჭირდროდ დასახლებული რეგიონი.
+Love is a good feeling./სიყვარული კარგი გრძნობაა.
+Go to school./წახვიდე სკოლაში. (სტანდარტული მიზეზით(სწავლისთვის))
+Go to university./წახვიდე უნივერსისტეტში. (სტანდარტული მიზეზით(სწავლისთვის))
+Go to the school./წახვიდე სკოლაში. (არასტანდარტული მიზეზით)
+Go to the university./წახივდე უნივერსიტეტში. (არასტანდარტული მიზეზით)
+Go to the gym./წახვიდე სპორტდარბაზში. (გამონაკლისი სტანდარტული მიზეზით)
+Go to hospital./წახვიდე ჰოსპიტალში. (სტანდარტული მიზეზით(სამკურნალოდ))
+Go to the hospital./წახვიდე ჰოსპიტალში. (არასტანდრული მიზეზით)
+I went to the school for a parent-teacher conference yesterday./მე წავედი გუშინ სკოლაში მშობელთა კრებაზე.
+I am going to the hospital to see John./მე მივდივარ ჰოსპიტალში რომ ვნახო ჯონი.
+I went to the church yesterday./მე წავედი ეკლესიაში გუშინ. (არასტანდარტული მიზეზით)
+I know a wide range of people./მე ვიცნობ ხალხის ფართო სპექტრს.

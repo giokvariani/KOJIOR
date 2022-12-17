@@ -1,0 +1,49 @@
+Creature/ქმნილება
+Are you still doing this?/ჯერ კიდებ ამას აკეთებ?
+Priest/მღდველი
+Bishop/ეპისკოპოსი
+Pull something./შენსკენ გამოწიო რაღაცა.
+Push something./მიაწვე რაღაცას.
+Focus your attention on something./ყურადღება გაამახვილო რაღაცაზე.
+Ally/მოკავშირე
+I received five pieces of information yesterday./ხუთი ინფორმაცია მივიღე გუშინ.
+Give me training./ჩამიტარე ტრენინგი.
+This is secret information./ეს არის საიდუმლო ინფორმაცია.
+In April./აპრილში
+In the morning./დილით
+In the mornings./დილაობით
+In the evenings./საღამოობით
+Sit in front of me./დაჯექი ჩემს წინ. (ზურგით)
+Sit opposite me./დაჯექი ჩემს წინ. (სახით)
+In the future./მომავალში
+In the past./წარსულში
+Let’s dance in the middle of this room./მოდი ვიცეკვოთ ამ ოთახის შუაში.
+There are many interesting books in this box./ამ ყუთში ბევრი საინტერესო წიგნია.
+In the desert./უდაბნოში
+In the mountains./მთებში
+I want to spend my summer holidays in the mountains./მე მინდა გავატარო ჩემი ზაფხულის არდადეგები მთებში.
+On this mountain./ამ მთაზე.
+Fly to Italy./გაფრინდი იტალიაში.
+Drive to Italy./მანქანით წადი იტალიაში.
+Move to Italy./საცხოვრებლად გადადი იტალიაში.
+Let’s run to Rustavi./მოდი გავიქცეთ რუსთავში.
+Open this book on page seven./გადაშალე ეს წიგნი მეშვიდე გვერდზე.
+On this floor./ამ სართულზე.
+Let’s meet in May./მოდი შევხვდეთ მაისში.
+Let’s meet on May the fifth./მოდი შევხვდეთ 5 მაისს.
+Let’s meet on Friday evening./მოდი შევხვდეთ პარასეკვს საღამოს.
+Call me at twenty past two./დამირეკე ორ საათსა და ოც წუთზე.
+I am at the cinema./მე კინოში ვარ. (გამიზნულად)
+I am in the cinema./მე კინოში ვარ. (სხვა მიზნით)
+Let’s discuss these issues at the meeting./მოდი განვიხილოთ ეს საკითხები შეხვედრაზე.
+I was in a meeting when you called me./მე ვიყავი შეხვედრაზე როცა დამირეკე.
+We talked much about these at yesterday’s meeting./ამეებზე ბევრი ვისაუბრეთ გუშინდელ შეხვედრაზე.
+I am in the countryside./მე ქალაქ-გარეთ ვარ.
+Let’s go to the countryside./მოდი წავიდეთ ქალაქ-გარეთ.
+At night./ღამით
+Tbilisi is very beautiful at night./თბილისი არის ძალიან ლამაზი ღამით.
+Someone is at the door./ვიღაცაა კარებზე.
+Deluded/მოტყუებული
+Delude somebody into doing something./შეცდომაში შეყვანით გააკეთებინო ვიღაცას რაღაცა.
+Inclination/სურვილი (ფორმალური)
+I have no inclination to help you./მე არანაირი სურვილი არ მაქვს დაგეხმარო. (ფორმალური)

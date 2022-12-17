@@ -1,0 +1,50 @@
+Circle the correct answer./შემოხაზე სწორი პასუხი
+Erupt/ამოფრქვევა
+How do you think when will this volcano erupt?/როგორ ფიქრობ როდის ამოიფრქვევა ეს ვულკანი?
+Unique/უნიკალური
+Uniqueness/უნიკალურობა
+We are running out of time./დრო გვიმთავრდება.
+We are running out of sugar./შაქარი გვიმთავრდება.
+Take part in something./მონაწილეობა მიიღო რაღაცაში.
+Participate in something./მონაწილეობა მიიღო რაღაცაში. (ფორმალური)
+Take a good photo of me./კარგი ფოტო გადამიღე.
+How adventurous are you?/რამდენად თავგადასავლების მოყვარული ხარ?
+Listen to me carefully./ყურადღებით მომისმინე.
+Why are your hands sticky?/რატომ გაქვს ხელები წებოვანი?
+Are you afraid of success?/გეშინია წარმატების?
+I want to make friends with this person./მე მინდა დავუმეგობრდე ამ ადამიანს.
+What I like about you is that you use innovative methods./რაც მომწონს შენში არის ის რომ შენ იყენებ ინოვაციურ მეთოდებს.
+Can you imagine?/შეგიძლია წარმოიდგინო?
+Imagination/წარმოსახვა
+Imaginary/წარმოსახვითი
+Create/შექმნა
+Creation/ქმნილება
+This is my most famous creation./ეს არის ჩემი ყველაზე ცნობილი ქმნილება.
+Creature/არსება
+Creative/კრეატიული
+Competitive/კონკურენტუნარიანი
+Competition/კონკურენცია
+There is strong competition in this market./ამ ბაზარზე ძლიერი კონკურენციაა.
+Compete with somebody./ვიღაცასთან კონკურენცია.
+I am not trying to compete with you./მე არ ვცდილობ შენთან კონკურენციას.
+Associate something with something./ასოცირება მოახდინო რაღაცის რაღაცასთან.
+Coincide with something./დაემთხვა რაღაცას.
+This festival coincided with my birthday last year./ეს ფესტივალი შარშან ჩემს დაბადების დღეს დაემთხვა.
+What a coincidence./რა დამთხვევაა.
+Competitor/კონკურენტი
+Who is your main competitor in Georgia?/ვინ არის შენი მთავარი კონკურენტი საქართველოში?
+Suffer from something./იტანჯებოდე რაღაცისგან.
+Differ from something./განსხვავდებოდე რაღაცისგან.
+Stop somebody from doing something./არ გააკეთებინო ვიღაცას რაღაცა.
+Stop John from buying this car./არ აყიდინო ჯონს ეს მანქანა.
+Solve a problem./გადაჭრა პრობლემა.
+We will meet all your needs./ყევლა თქვენს საჭიროებას დავაკმაყოფილებთ.
+If you don’t have any questions, let’s move on to the next slide./თუ რაიმე შეკითხვები არ გაქვთ, მოდი გადავიდეთ შემდეგ სლაიდზე.
+How many people does this company employ?/რამდენ ადამიანს ასაქმებს ეს კომპანია?
+One day, you will understand who I am./ერთ დღესაც მიხვდები ვინ ვარ.
+Deal with something./გაუმკლავდე რაღაცას.
+How do you deal with such difficult customers?/როგორ უმკლავდები ასეთ რთულ კლიენტებს?
+What does success mean to you?/რას ნიშნავს წარმატება შეთვის?
+What is at the root of your fears?/რა არის შენი შიშების საფუძველი?
+Be the root cause of something./იყო რაღაცის მთავარი გამომწვევი მიზეზი.
+I am the root cause of this tragedy./მე ვარ ამ ტრაგედიის მთავარი გამომწვევი მიზეზი.

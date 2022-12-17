@@ -1,0 +1,64 @@
+You deserve this./შენ იმსახურებ ამას.
+Reserve/დაჯავშვნა
+John is reserved./ჯონი არის ჩაკეტილი ადამიანი.
+Fill something with something./აავსო რაღაცა რაღაცით.
+Feel up to something./იყო რაღაცის ხასიათზე. (Feel up)
+I don’t feel up to it./მე არ ვარ ახლა ამის ხასიათზე. (Feel up)
+I feel like dancing./მე ვარ ცეკვის მუღამზე.  (Feel like)
+I am in the mood to dance./ცეკვის ხასიათზე ვარ. (Mood)
+I am in the mood for dancing./ცეკვის ხასიათზე ვარ. (Mood)(ფორმალური)
+Sin/ცოდვა
+Don’t sin today./ნუ შესცოდავთ დღეს.
+I am about to have a shower./მე ეს-ესაა შხაპი უნდა მივიღო.  (About)
+I am about to call John./ეს-ესაა ჯონს უნდა დავურეკო. (About)
+I am on the verge of having a shower./მე ეს-ესაა შხაპი უნდა მივიღო. (Verge)
+I am on the verge of calling John./ეს-ესაა ჯონს უნდა დავურეკო. (Verge)
+I am on the point of having a shower./მე ეს-ესაა შხაპი უნდა მივიღო. (Point)
+I am on the point of calling John./ეს-ესაა ჯონს უნდა დავურეკო. (Point)
+I am writing to you concerning this project./მე გწერთ ამ პროექტთან დაკავშირებით. (Concern)
+I am writing to you about this project./მე გწერთ ამ პროექტის შესახებ. (About)
+I am writing to you regarding this project./მე გწერთ ამ პროექტის შესახებ. (Regard)
+Slave/მონა
+Slavery/მონობა
+Bribe/ქრთამი
+Bribery/მექრთამეობა
+Barrier/ბარიერი
+Consequence/შედეგი (C)
+This doesn’t pose a risk./ეს არ წარმოადგენს რისკს.
+Threat/მუქარა
+This doesn’t pose a threat./ეს არ წარმოადგენს მუქარას.
+Promote/დაწინაურება
+Demote/დაქვეითება
+Reliable/სანდო
+John isn’t reliable./ჯონი არ არის სანდო.
+Rely on somebody./დაეყრდნო ვიღაცას.
+Can I rely on you?/შემიძლია დაგეყრდნო?
+John is unreliable./ჯონი არის არასანდო.
+Response/პასუხი
+Answer this email./უპასუხე ამ იმეილს.
+Respond to this email./უპასუხე ამ იმეილს. (Respond)(ფორმალური)
+Reply to this email./უპასუხე ამ იმეილს. (Reply)(ფორმალური)
+In response to something./რაღაცის პასუხად.
+I am writing to you in response to your email./მე თქვენ გწერთ თქვენი მეილის პასუხად.
+Restrictions/შეზღუდვები
+We will have some restrictions next week./ჩვენ გვექნება გარკვეული შეზღუდვები შემდეგ კვირას.
+I don’t want to restrict you in any way./მე არ მინდა რომ შეგზღუდო რამენაირად.
+I don’t want to upset you in any way./მე არ მინდა რომ გაწყენინო რამენაირად.
+Strict/მკაცრი
+Strictness/სიმკაცრე
+Don’t be so strict./ნუ ხარ ასეთი მკაცრი.
+It is not necessary./ეს არ არის საჭირო.
+Unnecessary/არასაჭირო
+Scenario/სცენარი
+Worst case scenario./ყველაზე ცუდი სცენარი.
+Best case scenario./ყველაზე კარგი სცენარი.
+Your mobile phone is similar to mine./შენი მობილური ტელეფონი ჩემის მსგავსია.
+Don’t exaggerate./ნუ აზვიადებ.
+Aggressive/აგრესიული
+Wide-spread problems./ფართოდ გავრცელებული პრობლემები.
+Existing problems./არსებული პრობლემები.
+Exacerbate/გამწვავება
+These changes can exacerbate our existing problems./ამ ცვლილებებს შეუძლია გაამწვავოს ჩვენი არსებული პრობლემები.
+Where is the kitchen?/სად არის სამზარეული?
+Drought/გვალვა
+John will likely call me tomorrow./სავარაუდოდ ჯონი ხვალ დამირეკავს.

@@ -1,0 +1,44 @@
+Audience/აუდიტორია
+Edit/რედაქტირება
+Edit this document before sending it./დაარედაქტირე ეს დოკუმენტი სანამ გააგზავნი მას.
+I want to see you on our team./მე მინდა გნახო ჩვენს გუნდში.
+Why am not I on this list?/რატომ არ ვარ ამ სიაში?
+Keep it up./ასე განაგრძე.
+English-speaking countries./ინგლისურ-ენოვანი ქვეყნები.
+How many English-speaking countries have you been to?/რამდენ ინგლისურ-ენოვან ქვეყანაში ხარ ნამყოფი?
+Via/მეშვეობით
+I will help you but on one condition./მე შენ დაგეხმარები მაგრამ ერთი პირობით.
+Desert/უდაბნო
+Desert something./მიატოვო რაღაცა.
+Even John likes this style./ჯონსაც კი მოსწონს ეს სტილი.
+You should change your mindset./შენ უნდა შეცვალო შენი აზროვნების წესი.
+Nothing compares to you./ვერაფერი შეგედრება.
+Unimaginable/წარმოუდგენელი
+It will cause much suffering./ეს გამოიწვევს დიდ ტანჯვას.
+Incredible/დაუჯერებელი
+Ineffective/არაეფექტური
+There is no point in doing something./აზრი არ აქვს რაღაცის გაკეთებას. (No point)
+There is no point in reading this book./აზრი არ აქვს ამ წიგნის წაკითხვას. (No point)
+It is pointless to do something./აზრი არ აქვს რაღაცის გაკეთებას. (Pointless)
+There is no point in buying this car./აზრი არ აქვს ამ მანქანის ყიდვას. (No point)
+It is pointless to buy this car./აზრი არ აქვს ამ მანქანის ყიდვას. (Pointless)
+It is no use doing something./აზრი არ აქვს რაღაცის გაკეთებას. (No use)
+It is no use selling this flat./აზრი არ აქვს ამ ბინის გაყიდვას. (No use)
+It is no good dancing in the middle./აზრი არ აქვს შუაში ცეკვას. (No good)
+Have you already bought this book?/უკვე იყიდე ეს წიგნი?
+Have you bought this book already?/იყიდე ეს წიგნი უკვე?
+Have you bought this book yet?/იყიდე ეს წიგნი უკვე? (Yet)
+I haven’t bought this book yet./მე ჯერ არ მიყიდია ეს წიგნი.
+I have yet to do something./მე ჯერ არ გამიკეთებია რაღაც. (ფორმალური)
+I have yet to buy this book./მე ჯერ არ მიყიდია ეს წიგნი. (ფორმალური)
+Julia has yet to call me./ჯულიას ჯერ არ დაურეკავს ჩემთვის. (ფორმალური)
+Julia hasn’t called me yet./ჯულიას ჯერ არ დაურეკავს ჩემთვის.
+I haven’t read this book for five years./ხუთი წელია ეს წიგნი არ წამიკითხავს.
+Have you ever read this book?/ოდესმე წაგიკითხავს ეს წიგნი?
+Double-check this information./გადაამოწმე ეს ინფორმაცია.
+I have just double-checked this information./მე ახალხანს გადავამოწმე ეს ინფორმაცია.
+How long has Giorgi been teaching English?/რამდენი ხანია რაც გიორგი ინგლისურს ასწავლის?
+How long had Giorgi been teaching English by May of last year?/რამდენი ხანი ასწავლიდა გიორგი ინგლისურს წინა წლის მაისისთვის?
+Don’t worry, I will have sent all these emails by nine o’clock./ნუ ნერვიულობ, მე გავაგზავნი ყველა ამ იმელს ცხრა საათისთვის.
+How come this book is in this room?/როგორ მოხდა რომ ეს წიგნი ამ ოთახშია?
+It is no wonder you are good at English./გასაკვარი არ არის რომ შენ კარგი ხარ ინგლისურში. (No wonder)

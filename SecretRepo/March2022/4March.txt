@@ -1,0 +1,40 @@
+Don’t complicate./არ გაართულო.
+In the mornings./დილაობით
+Strings/სიმები
+Artificial/ხელოვნური
+Natural/ბუნებრივი
+Relevant/საქმესთან დაკავშირებული
+Irrelevant/საქმესთან დაუკავშირებელი
+I have nothing to do with this./მე არაფერი მაქვს საერთო ამასთან.
+Wing/ფრთა
+John is addicted to alcohol./ჯონი არის დამოკიდებული ალკოჰოლზე.
+Humidity/ტენიანობა
+Get drunk./დათვრე
+Get married./დაქორწინდე
+Get divorced./განქორწინდე
+Get engaged./დაინიშნო
+Get tired./დაიღალო
+Get angry./გაბრაზდე
+Be angry./იყო გაბრაზებული
+Be tired./იყო დაღლილი
+Pay attention to this./მიაქციე ყურადღება ამას.
+Coincide with something./დაემთხვე რაღაცას.
+Government/მთავრობა
+Environment/გარემო
+Spouce/მეუღლე
+It’s your turn now./შენი ჯერია ახლა.
+Forgetful/გულმავიწყი
+How can you be so forgetful?/როგორ შეგიძლია იყო ასეთი გულმავიწყი?
+Higher education./უმაღლესი განათლება.
+Torch/ფანარი
+What advice can you give me?/რა რჩევა შეგიძლია მომცე?
+On one condition./ერთი პირობით.
+I confirm my readiness to help you./მე ვადასტურებ ჩემს მზადყოფნას რომ დაგეხმარო.
+I confirm that I was here yesterday./მე ვადასტურებ რომ გუშინ აქ ვიყავი.
+I hope this is the case with you too./იმედია რომ თქვენს შემთხვევაშიც ასეა.
+Lower stress./შეამცირო სტრესი. (Lower)
+Graduate from university./დაამთავრო უნივერსიტეტი.
+I graduated from this university years ago./მე დავამთავრე ეს უნივერსიტეტი წლების წინ.
+Excuse me, you have dropped something./უკაცრავად, რაღაც დაგივარდათ.
+Lift something./აწიო რაღაცა.
+Can you lift this heavy bag?/შეგიძლია აწიო ეს მძიმე ჩანთა?

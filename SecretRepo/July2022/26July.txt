@@ -1,0 +1,59 @@
+Blind/ბრმა
+Go blind./დაბრმავდე
+Blindness/სიბრმავე
+Blind/ჟალუზი
+We need good blinds in this room./ჩვენ გვჭირდება კარგი ჟალუზები ამ ოთახში.
+Your finger will swell if you don’t put it in the cold water./შენი თითი გასივდება თუ არ ჩადებ მას ცივ წყალში.
+Your finger will swell unless you put it in the cold water./შენი თითი გასივდება თუ არ ჩადებ მას ცივ წყალში. (Unless)
+If you don’t call me tomorrow./თუ შენ არ დამირეკავ ხვალ.
+Unless you call me tomorrow./თუ შენ არ დამირეკავ ხვალ. (Unless)
+If it doesn’t rain tomorrow./თუ ხვალ არ იწვიმებს.
+Unless it rains tomorrow./თუ ხვალ არ იწვიმებს. (Unless)
+Leave me alone./მარტო დამტოვე.
+What does this depend on?/რაზე არის ეს დამოკიდებული?
+Let’s continue talking about this./მოდი გავაგრძელოთ ამაზე საუბარი. (Continue)(Talking)
+Let’s continue to talk about this./მოდი გავაგრძელოთ ამაზე საუბარი. (Continue)(To talk)
+Let’s go on talking about this./მოდი გავაგრძელოთ ამაზე საუბარი. (Go on)
+Let’s carry on talking about this./მოდი გავაგრძელოთ ამაზე საუბარი. (Carry on)
+Let’s keep on talking about this./მოდი გავაგრძელოთ ამაზე საუბარი. (Keep on)
+Let’s keep talking about this./მოდი გავაგრძელოთ ამაზე საუბარი. (Keep)
+This wall is being painted./ეს კედელი იღებება.
+This washing machine was being fixed when I came here./ეს სარეცხი მანქანა კეთდებოდა, როცა მე აქ მოვედი.
+Competitor/კონკურენტი
+Who is your main competitor in Georgia?/ვინ არის შენი მთავარი კონკურენტი საქართველოში?
+How effective./რამდენად ეფექტური.
+How long./რამდენი ხანია რაც.
+How long./რამდენად გრძელი.
+How long is this river?/რამდენად გრძელია ეს მდინარე?
+How long have you been here?/რამდენი ხანია რაც აქ ხარ?
+How productive was yesterday’s meeting?/რამდენად პროდუქტუილი იყო გუშინდელი შეხვედრა?
+However/თუმცა
+However/რაც არ უნდა
+However expensive this product might be, I am still ready to buy it./რაც არ უნდა ძვირი იყოს ეს პროდუქტი მე მაინც მზად ვარ ვიყიდო.
+However competently you answer this question, I will still ask you more questions./რაც არ უნდა კომპეტენტურად უპასუხო ამ კითხვას, მე მაინც დაგისვავთ მეტ კითხვებს.
+My English is as good as yours./ჩემი ინგლისური ისეთივეა კარგია როგორც შენი.
+My book./ჩემი წიგნი.
+This book is mine./ეს წიგნი ჩემია.
+Your car./შენი მანქანა.
+This car is yours./ეს მანქანა შენია.
+Her letter./მისი წერილი. (She)
+This letter is hers./ეს წერილი მისია. (She)
+His flat./მისი ბინა. (He)
+This flat is his./ეს ბინა მისია. (He)
+Our country./ჩვენი ქვეყანა.
+This country is ours./ეს ქვეყანა ჩვენია.
+Their government./მათი მთავრობა.
+This government is theirs./ეს მთავრობა მათია.
+Share something with somebody./გაუზიარო ვიღაცას რაღაცა.
+Let’s exchange our ideas./მოდი გავცვალოთ ჩვენი იდეები.
+Finance something./დააფინანსო რაღაცა.
+I don’t have enough money to buy this car./არ მაქვს საკმარისი ფული ვიყიდო ეს მანქანა.
+This painting has been in our family for generations./თაობებია ეს ნახატი ჩვენს ოჯახში არის.
+Produce something./აწარმოო რაღაცა. (ფორმალური)(Produce)
+Make something./აწარმოო რაღაცა.
+Manufacture something./აწარმოო რაღაცა. (ფორმალური)(Manufacture)
+Let’s make these tables in Georgia./მოდი ვაწარმოოთ ეს მაგიდები საქართველოში.
+John must be very tired./ჯონი უნდა იყოს ძალიან დაღლილი. (100% დასკვნა)
+John must play football very well./ჯონი ძალიან კარგად უნდა თამაშობდეს ფეხბურთს. (100% დასკვნა)
+John can’t play tennis well because I know for sure he has never played it./ჯონს არ შეუძლია ჩოგბურთის თამაში კარგად, რადგან ზუსტად ვიცი, რომ მას არასდროს უთამაშია ის.
+I know for sure./ზუსტად ვიცი.

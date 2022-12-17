@@ -1,0 +1,90 @@
+Give somebody a loan./მისცე ვიღაცას სესხი.
+Grant somebody a loan./მისცე ვიღაცას სესხი.(ფორმალური)
+Military forces./სამხედრო ძალები.
+Air forces./საჰაერო ძალები.
+Armed forces./შეირაღებული ძალები.
+Arm somebody with something./შეიარაღება ვიღაცის რაღაცით.
+Disarm somebody./ვიღაცის განიარაღება.
+Vague/ბუნდოვანი
+Ambiguous/ორაზროვანი
+Soft drinks./უალკოჰოლო სასმელები.
+Everything depends on you./ყველფერი შენზეა დამოკიდებულია.
+This is weird, isn’t it?/ეს უცნაურია, არა?
+Even Misha likes this book./მიშასაც კი მოსწონს ეს წიგნი.
+Even my father is here./მამაჩემიც კი აქ არის.
+If you are free./თუ შენ თავისუფალი ხარ.
+I will be angry with you even if you come here tomorrow./მე გაბრაზებული ვიქნები შენზე მაშინაც კი თუ შენ მოხვალ აქ ხვალ.
+Have a strong desire to do something./დიდი სურვილი გქონდეს გააკეთო რაღაც.
+I have a strong desire to visit this company tomorrow./მე დიდი სურვილი მაქვს ვეწვიო ამ კომპანიას ხვალ.
+Completely agree with somebody./სრულიად ეთანხმებოდე ვიღაცას.
+Complete silence./სრული სიჩუმე.
+Violence/ძალადობა
+Violent/ძალადობრივი
+Independence/დამოუკიდებლობა
+Independent/დამოუკიდებელი
+Competence/კომპეტენტურობა
+Competent/კომპეტენტური
+Confidence/თავდაჯერებულობა
+Confident/თავდაჯერებული
+What is the reason for John’s absence?/რა არის ჯონის არ ყოფნის მიზეზი?
+In my absence./ჩემს არ ყოფნაში.
+Don’t sign these documents in my absence./არ მოაწერო ხელი ამ დოკუმენტებს ჩემს არ ყოფნაში.
+Selfish/ეგოისტი
+Don’t be so selfish./ნუ ხარ ესეთი ეგოისტი.
+Don’t be such a selfish person./ნუ ხარ ასეთი ეგოისტი ადამიანი.
+Don’t be so lazy./ნუ ხარ ასეთი ზარმაცი.
+Don’t be such a lazy person./ნუ ხარ ასეთი ზარმაცი ადამიანი.
+Selfishness/ეგოიზმი
+What is the cause of these problems?/რა არის ამ პრობლემების გამომწვევი მიზეზი?
+In my presence./ჩემი თანდასწრებით.
+Learn something by heart./ისწავლო რაღაცა ზეპირად.
+I want to read this book in the original./მე მინდა წავიკითხო ეს წიგნი ორიგინალში.
+On average I sell three cars a day./საშუალოდ მე სამ მანქანას ვყიდი დღეში.
+This is a very common problem in Georgia./ეს არის ძალიან გავრცელებული პრობლემა საქართველოში.
+Abuse/ბოროტად გამოყენება.
+Abuse power./ძალაუფლების ბოროტად გამოყენება.
+It is your right to do this./შენი უფლება არის გააკეთო ეს.
+Human rights and liberties./ადამიანის უფლებები და თავისუფლებები.
+Power of attorney./მინდობილობა
+This is a power of attorney./ეს არის მინდობილობა.
+On behalf of somebody./ვიღაცის სახელით.
+I have power of attorney to sign this document on behalf of John./მე მაქვს მინდობილობა მოვაწერო ხელი ამ დოკუმენტს ჯონის სახელით.
+I am here on behalf of my company./მე აქ ვარ ჩემი კომპანიის სახელით.
+Judge/მოსამართლე
+Verdict/განაჩენი
+Defend somebody./დაიცვა ვიღაც.(არგუმენტებით)
+We need this wall to protect us from animals./ჩვენ გვჭირდება ეს კედელი რომ დაგვიცვას ცხოველებისგან.
+I need a good lawyer who can defend me./მე მჭირდება კარგი იურისტი, რომელიც ჩემ დაცვას შეძლებს.
+Have you been here long?/დიდი ხანია რაც აქ ხარ?
+I have just called you./მე ახლახანს დაგირეკე.
+I am calling you now./მე ახლა გირეკავ.
+I call you every day, don’t I?/მე ყოველდღე გირეკავ, არა?
+I have been calling you for two minutes./ორი წუთია რაც გირეკავ.
+I am going to call you./მე ვაპირებ დაგირეკო.
+I was going to call you yesterday./ვაპირებდი შენთვის დამერეკა გუშინ.
+Did you call me yesterday?/დამირეკე გუშინ?
+Were you calling me at seven o’clock yesterday?/მირეკავდი შვიდ საათზე გუშინ?
+Have you already called me?/უკვე დამირეკე?
+Have you called me already?/დამირეკე უკვე?
+Have you called me yet?/დამირეკე უკვე?/(yet)
+Don’t call me at seven o’clock tomorrow, I will be giving this presentation./არ დამირეკო ხვალ შვიდ საათზე, მე ამ პრეზენტაციის გაკეთების პროცესში ვიქნები.
+I am dancing now./მე ახლა ვცეკვავ.
+I was dancing when you called me./მე ვცკვავდი როცა შენ დამირეკე.
+I am sure I will be dancing when you call me./მე დარწმუნებული ვარ მე ცეკვის პროცესში ვიქნები როცა დამირეკავ.
+When will you call me?/როდის დამირეკავ?
+When I am in Tbilisi./როცა მე თბილისში ვიქნები.
+I am having these walls painted this week./მე ამ კედლებს ვაღებინებ ამ კვირას.
+I meet all your requirements./მე ვაკმაყოფილებ თქვენს ყველა მოთხოვნას.
+Affect/გავლენის მოხდენა.
+These changes will affect us negatively./ეს ცვლილებები უარყოფით გავლენას მოახდენს ჩვენზე.
+These changes will have a negative effect on us./ამ ცვლილებებს უარყოფითი ეფექტი ექნება ჩვენზე.
+Economical/ეკონომიური
+How economical is your car?/რამდენად ეკონომიურია შენი მანქანა?
+How profitable is your business?/რამდენად მომგებიანია შენი ბიზნესი?
+Economic problems./ეკონომიკური პრობლემები.
+Go along this corridor./გაუყევით ამ დერეფანს.
+Witness/მოწმე
+This person was killed yesterday and you are the main suspect./ეს ადამიანი მოკლეს გუშინ და შენ ხარ მთავარი ეჭვმიტანილი.
+I suspect that John is not here./მეეჭვება რომ ჯონი აქ არ არის.
+I want to buy five pieces of furniture./ხუთი ერთეული ავეჯი მინდა ვიყიდო.
+Path/ბილიკი

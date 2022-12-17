@@ -1,0 +1,70 @@
+My tea lacks sugar./ჩემ ჩაის აკლია შაქარი.
+You lack professionalism./შენ გაკლია პროფესიონალიზმი.
+Are you competent?/კომპოტენტური ხარ?
+Toilet paper./ტვალეტის ქაღალდი.
+Guarantee/გარანტია
+Judge/მოსამართლე
+Don’t judge others if you don’t want to be judged./არ განსაჯო სხვები თუ შენ არ გინდა განგსაჯონ.
+Similarities and differences./მსგავსებები და განსხვავებები.
+Gain independence from somebody./მოიპოვო დამოუკიდებლობა ვიღაცისგან.
+We want to gain independence from this country./ჩვენ გვინდა მოვიპოვოთ დამოუკიდებლობა ამ ქვეყნისგან.
+You lack confidence./შენ გაკლია თავდაჯერება.
+It is thanks to you that I am here./შენი დამსახურებაა, რომ მე ვარ აქ.
+It is thanks to you that we are alive./შენი დამსახურებაა, რომ ჩვენ ცოცხლები ვართ.
+It is thanks to you that my English is good./შენი დამსახურებაა, რომ ჩემი ინგლისური კარგია.
+It is thanks to John that I am educated./ჯონის დამსახურებაა რომ მე ვარ განათლებული.
+Yet another./მორიგი
+It is yet another project I want us to work on together./ეს არის მორიგი პროექტი, რომელზეც მინდა რომ ერთად ვიმუშაოთ.
+It is yet another obstacle I will overcome./ეს არის მორიგი დაბრკოლება, რომელსაც მე გადავლახავ.
+It is yet another obstacle I want you to overcome./ეს არის მორიგი დაბრკოლება რომელიც მინდა რომ გადალახო.
+I want you to work on this project./მე მიდნა რომ შენ ამ პროექტზე იმუშაო.
+I want this project to be successful./მე მინდა რომ ეს პროექტი იყოს წარმატებული.
+How come you are here?/როგორ მოხდა რომ აქ ხარ?
+How come you didn’t call me yesterday?/როგორ მოხდა რომ გუშინ არ დამირეკე?
+Thank god you are alive./მადლობა ღმერთს შენ ცოცხალი ხარ.
+No wonder you are here today./გასაკვირი არ არის რომ შენ აქ ხარ დღეს. (No wonder)
+Little wonder you are here today./გასაკვირი არ არის რომ შენ აქ ხარ დღეს. (Little wonder)
+It is not surprising that you are here today./გასაკვირი არ არის რომ შენ აქ ხარ დღეს. (Surprise)
+I haven’t done this exercise yet./მე ჯერ არ გამიკეთებია ეს სავარჯიშო.
+I have yet to do this exercise./მე ჯერ არ გამიკეთებია ეს სავარჯიშო. (ფორმალური)
+John hasn’t sent this letter yet./ჯონს ჯერ არ გაუგზავნია ეს წერილი.
+John has yet to send this letter./ჯონს ჯერ არ გაუგზავნია ეს წერილი. (ფორმალური)
+I have already done this./მე უკვე გავაკეთე ეს.
+I have done this already./მე გავაკეთე ეს უკვე.
+I have done this yet./მე გავაკეთე ეს უკვე. (Yet)
+I have just called you./მე ახლახანს დაგირეკე.
+I have been to London many times./მე ბევრჯერ ვარ ნამყოფი ლონდონში.
+How many times have you read this book?/რამდენჯერ გაქვს ეს წიგნი წაკითხული?
+Have you read this book?/წაკითხული გაქვს ეს წიგნი?
+Have you been there?/ნამყოფი ხარ იქ?
+I have always wanted to tell you this./ყოველთვის მინდოდა რომ შენთვის ეს მეთქვა.
+How many exercises have you done so far?/რამდენი სავარჯიშო გააკეთე ჯერ-ჯერობით? (So far)
+How many exercises has John done so far?/რამდენი სავარჯიშო გააკეთა ჯონმა ჯერ-ჯერობით? (So far)
+How many exercises have you done yet?/რამდენი სავარჯიშო გააკეთე ჯერ? (Yet)
+How many exercises has John done yet?/რამდენი სავარჯიშო გააკეთა ჯონმა ჯერ? (Yet)
+I have been very busy recently./ამ ბოლო დროს ძალიან დაკავებული ვარ.  (Recently)
+I have been very busy lately./ამ ბოლო დროს ძალიან დაკავებული  ვარ. (Lately)
+You have been drinking too much./შენ ძალიან ბევრს სვავ(ამ ბოლო დროს). (Too)
+You have been drinking very much./შენ ძალიან ბევრს სვავ(ამ ბოლო დროს). (Very)
+I haven’t seen John for the last five days./ბოლო ხუთი დღეა არ მინახავს ჯონი.
+I have been living here for three years./სამი წელი რაც აქ ვცხოვრობ.
+I have been dancing for five hours./ხუთი საათია რაც ვცეკვავ.
+In moderation./ზომიერად
+In this direction./ამ მიმართლებით.
+This hotel is under construction./ეს სასტუმრო შენდება. (Under construction)
+This issue is under discussion./ეს საკითხი განიხილება.
+This code is under review./ეს კოდი განიხილება.
+Let’s start everything from scratch./მოდი დავიწყოთ ყველაფერი ნულიდან.
+Let’s meet at the end of next week./მოდი შევხვდეთ შემდეგი კვირის ბოლოს.
+Be in your element./იყო შენს ელემენტში. (ბედნიერად და კმაყოფილი გრძნობდე თავს)
+I don’t want to spend two hours waiting for you./მე არ მინდა გავატარო ორი საათი შენს ლოდინში.
+Take somebody doing something./წაიყვანო ვიღაცა რაღაცის გასაკეთებლად.
+I will take you walking tomorrow./მე შენ წაგიყვან სასეირნოდ ხვალ.
+I will take you dancing tomorrow./მე შენ წაგიყვან საცეკვაოდ ხვალ.
+I will take you fishing one day./ერთ დღეს სათევზაოდ წაგიყვან.
+Throw yourself into something./დაიწყო რაღაცის კეთება ენერგიულად და ენთუზიაზმით. (შეაგდო შენი თავი რაღაცაში)
+John throws himself into learning English./ჯონი ენთუზიაზმით იწყებს ინგლისურის სწავლას. (ჯონმა შეიგდო თავისი თავი ინგლისურის სწავლაში)
+When Nika starts speaking there is no stopping him./როცა ნიკა იწყებს საუბარს, ვერაფერი აჩერებს მას.
+I was miles away./არ გისმენდით.
+Get carried away./აზრებში წახვიდე.
+Unless John calls me tomorrow./თუ ჯონი არ დამირეკავს ხვალ. (Unless)

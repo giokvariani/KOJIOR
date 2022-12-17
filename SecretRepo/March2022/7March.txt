@@ -1,0 +1,69 @@
+Willpower/ნებისყოფა
+Rest in peace./მშვიდად განისვენე.
+Popularity/პოპულარობა
+Does my insurance policy cover these risks?/ჩემი სადაზღვეო პოლისი ფარავს ამ რისკებს?
+Reimburse something./აანაზღაურო რაღაც.
+Quote/ციტატა
+Famous quotes./ცნობილი გამონათქვამები.
+Statistically/სტატისტიკურად
+Mental/გონებრივი
+Mentaly/გონებრივად
+Theoretically/თეორიულად
+Practically/პრაქტიკულად
+Scientifically/მეცნიერულად
+Emotionally/ემოციურად
+Spiritually/სულიერად
+Spiritual/სულიერი
+Spiritual development./სულიერი განვითარება.
+Ambition/ამბიცია
+Ambitious/ამბიციური
+Ambitiously/ამბიციურად
+Say something ambitiously./თქვა რაღაც ამბიციურად.
+Follow me./მომყევი
+How do you think is John brave enough to do this?/როგორ ფიქრობ ჯონი საკმარისად მამაცია რომ ეს გააკეთოს?
+Naturally/ბუნებრივად
+Artificially/ხელოვნურად
+This should be done naturally./ეს უნდა გაკეთდეს ბუნებრივად.
+Get ready for something./მოემზადო რაღაცისთვის.
+Prepare for something./მოემზადო რაღაცისთვის. (ფორმალური)
+I am preparing for my exams./მე ვემზადები ჩემი გამოცდებისთვის. (ფორმალური)
+Brave/მამაცი
+Bravery/სიმამაცე
+Slave/მონა
+Slavery/მონობა
+Be famous for something./იყო ცნობილი რაღაცის გამო.
+Gradually/თანდათან
+We will do this gradually./ჩვენ გავაკეთებთ ამას თანდათან.
+Introduction/შესავალი
+Shield/ფარი
+How stressful is your job?/რამდენად სტრესულია შენი სამსახური?
+Nothing can shield us from such dangers./არაფერს შეუძლია დაგვიცვას ასეთი საფრთხეებისგან.
+John may call you tomorrow./ჯონმა შეიძლება დაგირეკოს ხვალ. (მაღალი ალბათობით)
+John might call you tomorrow./ჯონმა შეიძლება დაგირეკოს ხვალ. (დაბალი ალბათობით)
+Overcome/გადალახვა
+How do you think can John overcome these difficulties?/როგორ ფიქრობ შეუძლია ჯონს გადალახოს ეს სიძნელეები?
+Stress is an essential part of life./სტრესი არის ცხოვრების განუყოფელი ნაწილი.
+I have never seen such a beautiful view./მე არასდროს მინახავს ასეთი ლამაზი ხედი.
+Rarely/იშვიათად
+I rarely do this./მე იშვიათად ვაკეთებ ამას.
+Threat/მუქარა
+Complete a task./დავალება შეასრულო.
+Can you complete this task today?/შეგიძლია ეს დავალება დღეს შეასრულო?
+I value our friendships./მე ვაფასებ ჩვენს მეგობრობას.
+I appreciate your help./მე ვაფასებ შენს დახმარებას.
+I value our collaboration./მე ვაფასებ ჩვენს თანამშრომლობას.
+Collaborate with somebody./ითანამშრომლო ვიღაცასთან.
+Effort/ძალისხმევა
+Thank you for your efforts./მადლობა თქვენი ძალისხმევისთვის.
+I meet all your requirements./მე ვაკმაყოფილებ თქვენს ყველა მოთხოვნას.
+I see that you are in high spirits today./მე ვხედავ რომ ამაღლებულ განწყობაზე ხარ დღეს.
+I want to master this rule./მე მინდა დავამუღამო ეს წესი.
+You will master English grammar sooner or later./შენ დაამუღამებ ინგლისურ გრამატიკას ადრე თუ გვიან.
+John will call you sooner or later./ჯონი დაგირეკავს ადრე თუ გვიან.
+This book will help you master life stressors./ეს წიგნი დაგეხმარებათ დაამუღამოთ ცხოვრებისეული სტრესები.
+We can make big money by selling such books./ჩვენ შეგვიძლია დიდი ფული გავაკეთოთ ასეთი წიგნების გაყიდვით.
+Encourage your staff to work better./წაახლისე შენი თანამშრომლები, რომ უკეთესად იმუშაონ.
+Encouraging/წამახალისებელი
+What you said yesterday was very encouraging./გუშინ შენ რაც თქვი იყო ძალიან წამახალისებელი.
+Cope with something./გაუმკლავდე რაღაცას. (Cope)
+I want you to have a sense of achievement every day./მე მინდა რომ გქონდეს მიღწევის გრძნობა ყოველ დღე.

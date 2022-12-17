@@ -1,0 +1,47 @@
+Pension/პენსია
+Pensioner/პენსიონერი
+Are you a pensioner?/პენსიონერი ხარ?
+Pay attention to me./ყურადღება მომაქციე.
+I prefer tea to coffee./ჩაი მირჩევნია ყავას.
+Tasting/დეგუსტაცია
+I want to invite you to the tasting of this wine./მე მინდა დაგპატიჟო ამ ღვინის დეგუსტაციაზე.
+Tools/ხელსაწყოები
+Disappointment/იმედგაცრუება
+Communication/კომუნიკაცია
+You know what I like about you is that you are never late for meetings./იცი რა მომწონს შენში ის რომ შენ არასდროს იგვიანებ შეხვედრებზე.
+If you have questions do not hesitate to contact me./თუ გექნებათ კითხვები არ დაყოვნდეთ, დამიკავშირდით.
+Conduct an experiment./ჩაატარო ექსპერიმენტი. (ფორმალური)
+Inhibit somebody./დააკომპლექსო ვიღაც.
+I don’t want to inhibit you in any way./მე არ მინდა რამენაირად დაგაკომპლექსო.
+Make eye contact with somebody./თვალის კონტაქტი დაამყარო ვიღაცასთან.
+Make eye contact with me./თვალის კონტაქტი დაამყარე ჩემთან.
+I have been living here for three years./სამი წელია რაც აქ ვცხოვრობ.
+Shall I wash my hands?/დავიბანო ხელები?
+I have just realized that I am in a hurry./მე ახლახანს გავაცნობიერე რომ მეჩქარება.
+I have just bought this book./მე ახალხანს ვიყიდე ეს წიგნი.
+Coincide with something./დაემთხვე რაღაცას.
+Our corporate event coincided with my birthday last year./ჩვენი კორპორატიული ღონისძიება დაემთხვა ჩემს დაბადების დღეს წინა წელს.
+Why are you being so aggressive today?/რატომ ხარ ასეთი აგრესიული დღეს?
+I am working in Kutaisi this week./ამ კვირას ქუთაისში ვმუშაობ.
+I am busy this year./მე დაკავებული ვარ ამ წელს.
+How talented are you?/რამდენად ნიჭიერი ხარ?
+Sign a contract with somebody./კონტრაქტი გააფორმო ვიღაცასთან.
+Enter into a contract with somebody./კონტრაქტი გააფორმო ვიღაცასთან. (ფორმალური)
+I don’t advise you to enter into a contract with these people./მე არ გირჩევ რომ კონტრაქტი გააფორმო ამ ხალხთან. (ფორმალური)
+Shall I wrap it?/შევფუთო?
+Inherit something from somebody./მემკვიდრეობით მიიღო რაღაცა ვიღაცისგან.
+You will inherit this flat from John when he passes away./შენ მემკვიდრეობით მიიღებ ამ ბინას ჯონისგან როცა ის მოკვდება. (Pass away)
+When I have money./როცა ფული მექნება.
+After you call me./მას შემდეგ რაც შენ დამირეკავ.
+I need English which is why I am here./მე მჭირდება ინგლისური რის გამოც ვარ აქ.
+Difficulties/სირთულეები
+Similarities/მსგავსებები
+Cultural heritage./კულტურული მემკმვიდრეობა.
+What are you talking about now?/რაზე ლაპარაკობ ახლა? (Talk)
+What are you speaking about now?/რაზე ლაპარაკობ ახლა? (Speak)
+What are you listening to now?/რას უსმენ ახლა?
+What a mess./რა არეულობაა.
+Grammatical accuracy./გრამატიკული სიზუსტე.
+Precise/ზუსტი
+Mathematical precision./მათემატიკური სიზუსტე.
+This is precisely what I wanted to tell you./ეს ზუსტად ის არის რისი თქმაც მინდოდა შენთვის.

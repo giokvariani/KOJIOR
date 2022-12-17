@@ -1,0 +1,40 @@
+Win a game./მოიგო თამაში.
+How can I win this game?/როგორ შემიძლია მოვიგო ეს თამაში?
+Buy somebody something./უყიდო ვიღაცას რაღაცა.
+Buy me this car./მიყიდე ეს მანქანა.
+Make somebody something./გაუკეთო ვიღაცას რაღაცა.
+Make me this soap tomorrow./გამიკეთე ეს სუპი ხვალ.
+Don’t wait for latecomers to start your presentation./არ დაელოდო დაგვინაებულებს თქვენი პრეზენტაციის დასაწყებად.
+We have many holidaymakers here in summer./ჩვენ გვყავს ბევრი დამსვენებელი აქ ზაფხულში.
+Is everything clear?/ყველაფერი გასაგებია?
+Clarity/სიცხადე
+We need more clarity in this project./ჩვენ გვჭირდება მეტი სიცხადე ამ პროექტში.
+Let’s clarify everything before we start this project./მოდი ნათელი მოვფინოთ ყველაფერს სანამ დავიწყებთ ამ პროექტს.
+We are finishing this project at the end of June./ჩვენ ვამთავრებთ ამ პროექტს ივნისის ბოლოს.
+I am flying to Italy tomorrow./მე მივფრინავ იტალიაში ხვალ.
+I am meeting John at seven o’clock tomorrow./მე ვხვდები ჯონს ხვალ შვიდ საათზე.
+When are you going to Bakuriani?/როდის მიდიხარ ბაკურიანში?
+I am sleeping in this room this week./ამ კვირას ამ ოთახში მძინავს.
+Why are you always shouting at me when I make mistakes?/რატომ მიყვირიხარ ყოველთვის როცა შეცდომებს ვუშვებ?
+Why are you always buying this bread?/რატომ ყიდულობ ყოველთვის ამ პურს?
+I love comfort in everything./მე მიყვარს კომფორტი ყველაფერში.
+I milk this cow every day./მე ვწველავ ამ ძროხას ყოველდღე.
+Milk this cow./მოწველე ეს ძროხა.
+Don’t milk this cow./არ მოწველო ეს ძროხა.
+Buy this book./იყიდე ეს წიგნი.
+Don’t buy this book./არ იყიდო ეს წიგნი.
+Why are you always milking this cow when I am with you?/რატომ წველავ ამ ძროხას ყოველთვის, როცა მე შენთან ერთად ვარ?
+I was milking this cow when you called me./მე ვწველიდი ამ ძროხას, როცა შენ მე დამირეკე.
+I am going to milk this cow./მე ვაპირებ მოვწველო ეს ძროხა.
+I am going to buy this dog./მე ვაპირებ ვიყიდო ეს ძაღლი.
+I am going to buy this book tomorrow./მე ვაპირებ ვიყიდო ეს წიგნი ხვალ.
+I milked this cow yesterday./მე მოვწველე ეს ძროხა გუშინ.
+Discuss something./განიხილო რაღაცა.
+Let’s discuss this tomorrow./მოდი განვიხილოთ ეს ხვალ.
+Let’s not buy this office./მოდი არ ვიყიდოთ ეს ოფისი.
+Let’s not milk this cow today./მოდი არ მოვწველოთ ეს ძროხა დღეს.
+I am milking this cow./მე ვწველი ამ ძროხას.
+I have been milking this cow for two years./ორი წელია რაც ვწველი ამ ძროხას.
+I am busy this month./მე დაკავებული ვარ ამ თვეს.
+Are you free this year?/თავისუფალი ხარ ამ წელს?
+Are you free this week?/თავისუფალი ხარ ამ კვირას?

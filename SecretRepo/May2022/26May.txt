@@ -1,0 +1,42 @@
+Airport/აეროპორტი
+International airports./საერთაშორისო აეროპორტები.
+Observatory/ობსერვატორია
+Firewood/შეშა
+Are you ready to help me?/მზად ხარ რომ დამეხმარო?
+You have a great sense of humour, which is very good./შენ გაქვს შესანიშნავი იუმორის გრძნობა, რაც ძალიან კარგია.
+I am in Tbilisi, which is good./მე ვარ თბილისში, რაც კარგია.
+Dawn/გარიჟრაჟი
+Awful/საშინელი
+Be careful with somebody./ფრთხილად იყავი ვიღაცასთან.
+Can you imagine what happened yesterday?/წარმოგიდგენია რა მოხდა გუშინ?
+Ask a question./დასვა კითხვა.
+Answer a question./პასუხი გასცე კითხვას.
+This book is worth reading./ამ წიგნის წაკითხვა ღირს.
+These jeans are worth buying./ამ ჯინსების ყიდვა ღირს.
+I am ready to do this./მე მზად ვარ გავაკეთო ეს.
+It was a clever decision./ეს იყო ჭკვიანური გადაწყვეტილება.
+Save somebody’s life./გადაარჩინო ვიღაცა სიკვდილს.
+Difficult students./რთული სტუდენტები.
+Difficult customers./რთული კლიენტები.
+I like the way you cope with difficult customers./მომწონს, როგორ უმკლავდები რთულ კლიენტებს. (Cope)
+I like the way you deal with difficult customers./მომწონს, როგორ უმკლავდები რთულ კლიენტებს. (Deal)
+Balanced/გაწონასწორებული
+How balanced a person are you?/რამდენად გაწონასწორებული ადამიანი ხარ?
+We don’t want to be vulnerable to such risks./ჩვენ არ გვინდა რომ ვიყოთ დაუცველები ასეთი რისკების მიმართ.
+Vulnerability/დაუცველობა
+According to somebody./ვიღაცის თანახმად.
+Based on something./რაღაცაზე დაყრდნობით.
+This is human nature./ეს არის ადამიანის ბუნება.
+Hold somebody back./დააბრკოლო ვიღაც.
+These difficulties will not hold me back./ეს სირთულეები მე ვერ დამაბრკოლებს.
+Two hundred./ორასი
+One hundred./ასი
+Hundreds of books./ასობით წიგნი.
+Thousands of people./ათასობით ადამიანი.
+We need two thousand dollars for this project./ჩვენ გვჭირდება ორი ათასი დოლარი ამ პროექტისთვის.
+It will take days to process this information./დღეები დაჭირდება ამ ინფორმაციის გადამუშავებას.
+If you don’t risk looking foolish, nothing changes./თუ არ გარისკავ იმას რომ სულელურად გამოიყურებოდე, არაფერი შეიცვლება.
+Knowledge impowers us./ცოდნა გვაძლიერებს.
+We need the courage to be imperfect./ჩვენ გვჭირდება გამბედაობა, რომ ვიყოთ არასრულყოფილები.
+Be worthy of something./იყო რაღაცის ღირსი.
+I am worthy of this./მე ამის ღირსი ვარ.

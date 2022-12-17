@@ -1,0 +1,34 @@
+I want to get ahead in my career./მე მინდა წინ წავიდე ჩემს კარიერაში.
+I feel like drinking./დალევის მუღამზე ვარ.
+You are probably right./შენ ალბათ მართალი ხარ.
+John may call me tomorrow./ჯონმა შეიძლება ხვალ დამირეკოს. (May)
+John might call me tomorrow./ჯონმა შეიძლება ხვალ დამირეკოს. (Might)
+Pick a card at random./აარჩიეთ ბარათი შემთხვევითად.
+Generate/გენერირება
+How do you think will this business generate income?/როგორ ფიქრობ ეს ბიზნესი შემოსავალს გამოიმუშავებს? (Generate)
+Nuclear plant./ატომური სადგური
+How much electricity does this nuclear plant generate?/რამდენ ელექტროენერგიას გამოიმუშავებს ეს ატომური სადგური?
+I sweat easily./მე ადვილად ვოფლიონობ.
+Talk somebody into doing something./დაარწმუნო ვიღაც გააკეთოს რაღაც. (Talk)
+Talk John into buying this car./დაარწმუნე ჯონი იყიდოს ეს მანქანა. (Talk)
+Talk somebody out of doing something./გადაარწმუნო ვიღაცა გააკეთოს რაღაც. (Talk)
+Talk John out of going to Italy./გადააფიქრებინე ჯონს იტალიაში წასვლა. (Talk)
+Make eye contact with somebody./თვალის კონტაქტი დაამყარო ვიღაცასთან.
+Always make eye contact with your audience./ყოველთვის დაამყარეთ თვალის კონტაქტი თქვენს აუდიტორიასთან.
+Give somebody feedback on something./მისცე ვიღაცას უკუკავშირი რაღაცაზე.
+Are you insured with Aldagi?/დაზღვეული ხარ ალდაგში?
+Do you have a current account with TBC bank?/გაქვს მიმდინარე ანგარიში თიბისი ბანკში?
+Delegate something to somebody./ვინმესთვის რაღაცის დელეგირება.
+I advise you to delegate this task to John./გირჩევ რომ ეს დავალება დაადელეგირო ჯონზე.
+Exchange programs./გაცვლითი პროგრამები.
+Do you have exchange programs this year?/გაქვთ გაცვლითი პროგრამები ამ წელს?
+Blood circulates in the body./სისხლი ცირკულირებს სხეულში.
+Bathrobe/ხალათი
+I have always wanted to read about this company./მე ყოველთვის მინდოდა წამეკთხა ამ კომპანიაზე.
+I have been sitting here since I have been giving a lesson./მე აქ ვზივარ მას შემდეგ რაც გაკვეთილს ვატარებ.
+Mariam has been learning English since I have been driving this car./მარიამი სწავლობს ინგლისურს მას შემდეგ რაც მე ვატარებ ამ მანქანას.
+Mariam has been learning English since I bought this car./მარიამი სწავლობს ინგლისურს მას შემდეგ რაც მე ეს მანქანა ვიყიდე.
+I have been sitting here since I came here./მე აქ ვზივარ მას შემდეგ რაც აქ მოვედი.
+I have been sitting here since I have been here./მე აქ ვზივარ მას შემდეგ რაც აქ ვარ.
+How many plays has John written?/რამდენი პიესა დაწერა ჯონმა?
+How many plays did Shakespeare write?/რამდენი პიესა დაწერა შექსპირმა?

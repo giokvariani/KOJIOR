@@ -1,0 +1,79 @@
+Have a permanent job./გქონდეს მუდმივი სამუშაო.
+Have a temporary job./გქონდეს დროებითი სამუშო.
+This is my temporary job./ეს ჩემი დროებითი სამუშაო.
+This is my permanent job./ეს ჩემი მუდმივი სამუშაო.
+It was love at first sight./ეს იყო სიყვარული ერთი დანახვით.
+It happened a long time ago./ეს მოხდა დიდი ხნის წინ.
+Have a nice business trip./სასიამოვნო მივლინებას გისურვებ.
+Do you often do this?/ხშირად აკეთებ ამას? (Often)
+Do you do this often?/ამას აკეთებ ხშირად?
+Inexperience remains your main problem./გამოუცდილება რჩება შენს მთავარ პრობლემად.
+I was in a meeting when you called me./მე ვიყავი შეხვედრაზე როცა შენ მე დამირეკე.
+Do this immediately./ახლავე გააკეთე ეს.
+Local people./ადგილობრივი ხალხი.
+Does this salad contain onions?/ეს სალათი შეიცავს ხახვს?
+I can’t lift this bag because it is very heavy./მე არ შემიძლია ავწიო ეს ჩანთა იმიტომ რომ ის ძალიან მძიმეა.
+Check something./შეამოწმო რაღაცა.
+We should work more in this direction./ჩვენ მეტი უნდა ვიმუშაოთ ამ მიმართულებით.
+Run a company./მართო კომპანია.
+Can you run this company without me?/შეგიძლია მართო ეს კომპანია ჩემს გარეშე?
+I am interested in such things./მე დაინტერესებული ვარ ასეთი რაღაცეებით.
+I am thinking of moving to London./მე ვფიქრობ ლონდონში გადასვლაზე. (Of)
+I am thinking about moving to London./მე ვფიქრობ ლონდონში გადასვლაზე. (About)
+Be considering doing something./ფიქრობდე რაღაცის გაკეთებას. (Consider)
+I am thinking of buying this book./მე ვფიქრობ ამ წიგნის ყიდვას. (Of)
+I am thinking about buying this book./მე ვფიქრობ ამ წიგნის ყიდვას. (About)
+I am considering buying this book./მე ვფიქრობ ამ წიგნის ყიდვას. (Considering)
+Learn from your mistakes./ისწავლო შენი შეცდომებისგან.
+Are you keen on football?/ფეხბურთი გიყვარს? (Keen on)
+It is raining./წვიმს
+I have been learning English for three years./სამი წელია რაც მე ინგლისურს ვსწავლობ.
+I send all these people letters every day./ყველა ამ ადამიანს ვუგზავნი წერილებს ყოველ დღე.
+You have a very good sense of humour./შენ ძალიან კარგი იუმორის გრძნობა გაქვს.
+I admire John for his great sense of humour./მე ვგიჟდები ჯონზე მისი იუმორის გრძნობის გამო.
+How do you think will this system protect us from this?/როგორ ფიქრობ ეს სისტემა დაგვიცავს ამისგან?
+Why are you accusing me of this?/რატომ მადანაშაულებ ამაში?
+Blame somebody for something./დააბრალო ვიღაცას რაღაცა. (For something)
+Blame something on somebody./დააბრალო რაღაცა ვიღაცას. (On somebody)
+Why are you always blaming me for everything?/რატომ მაბრალებ ყოველთვის ყველაფერს? (For)
+Why are you always blaming everything on me?/რატომ მაბრალებ ყველაფერს ყოველთვის? (On)
+Aim at somebody./დაუმიზნო ვიღაცას
+Why were you aiming that gun at me when I saw you?/რატომ მიმიზნებდი იმ იარაღს როცა მე შენ დაგინახე.
+Ask for money./ითხოვო ფული
+Why are you always asking me for money?/რატომ მთხოვ ყოველთვის ფულს?
+Arrest somebody for something./დააპატიმრო ვიღაცა რაღაცისთვის.
+Borrow something from somebody./ისესხო რაღაცა ვიღაცასგან.
+Land somebody something./ასესხო ვიღაცას რაღაცა.
+Let’s compare John with Julia./მოდი შევადაროთ ჯონი ჯულიას.
+Congratulate somebody on something./მიულოცო ვიღაცას რაღაცა.
+Have you already congratulated John on his great test results?/შენ უკვე მიულოცო ჯონს მისი მაგარი ტესტის შედეგები?
+I will divide you into four groups./მე თქვენ დაგყოფთ ოთხ ჯგუფად.
+Discourage somebody from doing something./გადააფიქრებინო ვიღაცას რაღაცის გაკეთება. (Discourage)
+Discourage John from going to Italy./გადააფიქრებინე ჯონს იტალიაში წასვლა. (Discourage)
+Talk somebody out of doing something./გადააფიქრებინე ვიღაცას რაღაცის გაკეთება. (Talk somebody out of)
+Talk John out of going to Italy./გადააფიქრებინე ჯონს იტალიაში წასვლა. (Talk somebody out of)
+Stop John from going to Italy./არ გაუშვა ჯონი იტალიაში. (Stop somebody from doing something)
+Prevent John from going to Italy./არ გაუშვა ჯონი იტალიაში. (ფორმალური)
+Insure something against something./დააზღვიო რაღაცა რაღაცაზე.
+Invite me to this party./დამპატიჟე ამ წვეულებაზე.
+I prefer tea to coffee./ჩაი მირჩევნია ყავას.
+Provide somebody with something./უზრუნველყო ვიღაცა რაღაცით.
+We will provide you with this information./ჩვენ მოგაწვდით ამ ინფორმაციას.
+We will supply you with these cigars./ჩვენ თქვენ მოგამარაგებთ ამ სიგარებით.
+Most people regard you as the best teacher in the country./ადამიანების უმეტესობა გვთვლით თქვენ როგორც საუკეთესო მასწავლებლად ქვეყანაში.
+Rob somebody of something./მოპარო ვიღაცას რაღაცა.
+Share something with somebody./გაუზიარო რაღაცა ვიღაცას.
+I want to share my knowledge with others./მე მინდა გავუზიარო ჩემი ცოდნა სხვებს.
+Spend money on something./დახარჯო ფული რაღაცაზე.
+Don’t spend so much money on books./ნუ ხარჯავ ამდენ ფულს წიგნებზე.
+Pay money for something./გადაიხადო ფული რაღაცაში.
+I am not going to pay one hundred dollars for this book./მე არ ვაპირებ რომ გადავიხადო ასი დოლარი ამ წიგნისთვის.
+Suspect somebody of something./ეჭვი მიიტანო ვიღაცაზე რაღაცის გამო.
+Thank somebody for something./მადლობა გადაუხადო ვიღაცას რაღაცისთვის.
+I want to thank you for your help./მე მინდა მადლობა გადაგიხადო შენი დახმარებისთვის.
+Roof/სახურავი
+Do you know where can I buy good blinds?/იცი სად შემიძლია ვიყიდო კარგი ჟალუზები?
+John is my next-door neighbour./ჯონი ჩემი კარის მეზობელია.
+Rent something from somebody./იქირაო რაღაცა ვიღაცისგან.
+I want to rent this flat from you./მე მინდა ვიქირაო ეს ბინა თქვენგან.
+I want to rent out this flat./მე მინდა გავაქირავო ეს ბინა.

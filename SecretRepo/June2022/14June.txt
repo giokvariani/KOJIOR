@@ -1,0 +1,46 @@
+Sum up./შეაჯამო
+Summarize/შეაჯამო
+I haven’t seen Julia yet./მე ჯერ არ მინახავს ჯულია.
+I have yet to see Julia./მე ჯერ არ მინახავს ჯულია. (ფორმალური)
+Transparent glass./გამჭვირვალე მინა.
+Helicopter/ვერტმფრენი
+Translate this sentence from Georgian into English./გადათარგმნე ეს წინადადება ქართულიდან ინგლისურად.
+Talk somebody into doing something./დაარწმუნო ვიღაცა გააკეთოს რაღაცა. (Talk)
+Talk John into buying this car./დაარწმუნე ჯონი იყიდოს ეს მანქანა. (Talk)
+Bribe somebody into doing something./მოქრთამო ვიღაცა გააკეთოს რაღაცა.
+I am searching for this information./მე ვეძებ ამ ინფორმაციას. (Search)
+I am looking for this information./მე ვეძებ ამ ინფორმაციას. (Look)
+I have found this information./მე ვიპოვე ეს ინფორმაცია.
+Find yourself doing something./საკუთარი თავი დაიჭირო რაღაცის კეთებაში.
+I found myself thinking negatively./მე დავიჭირე ჩემი თავი ნეგატიურად აზროვნებაში.
+We are in the middle of nowhere./სადღაც ტრაკში ვართ.
+I am on the spot./ადგილზე ვარ.
+Read the following information./წაიკითხე შემდეგი ინფორმაცია.
+Find something somehow./რაღაცა მიგაჩნდეს რაღაცნაირად.
+Find somebody somehow./ვიღაცა მოგეჩვენოს რაღაცნაირად.
+I find John boring./ჯონი მოსაწყენად მეჩვენება.
+I find this book interesting./ეს წიგნი საინტერესოდ მიმაჩნია.
+Julia found this exercise hard./ჯულიას ეს სავარჯიშო ერთულა.
+Let’s find out where this building is./მოდი გავარკვიოთ სად არის ეს შენობა.
+What is in your hand?/რა გიჭირავს ხელში?
+What are you holding?/რა გიჭირავს?
+It is one of the leading companies in Georgia./ეს არის ერთ-ერთი წამყვანი კომპანია საქართველოში.
+Name three leading companies in Georgia./დამისახალე სამი წამყვანი კომპანია საქართველოში.
+It is one of the most interesting books in Georgia./ეს არის ერთ-ერთი ყველაზე საინტერესო წიგნი საქართველოში.
+Impressive/შთამბეჭდავი
+Balanced/გაწონასწორებული
+Get wet./დასველდე
+Don’t get wet, it is raining./არ დასველდე, წვიმს.
+How good is your English?/რამდენად კარგია შენი ინგლისური?
+How profitable is this business?/რამდენად მომგებიანი არის ეს ბიზნესი?
+How interestingly did you speak yesterday?/რამდენად საინტერესოდ ისაუბრე გუშინ?
+How well do you speak English?/რამდენად კარგად საუბრობ ინგლისურად?
+How well do you manage this company?/რამდენად კარგად მართავ ამ კომპანიას? (ფორმალური)
+How well do you run this company?/რამდენად კარგად მართავ ამ კომპანიას?
+Democratically elected./დემოკრატიულად არჩეული.
+Don’t forget that our government has been democratically elected this year./არ დაგავიწყდეთ, რომ ჩვენი მთავრობა დემოკრატიულად არჩეულია ამ წელს.
+Make somebody happy./გააბედნიერო ვიღაცა.
+Make somebody angry./გააბრაზო ვიღაცა.
+Make me this ice cream./გამიკეთე ეს ნაყინი.
+Buy me this car./მიყიდე ეს მანქანა.
+Make me this salad./ეს სალათი გამიკეთე.

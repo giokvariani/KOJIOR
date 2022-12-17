@@ -1,0 +1,36 @@
+Start a fire./ცეცხლი დაანთო.
+Set fire to something./წაუკიდო ცეცხლი რაღაცას.
+Set fire to this document./წაუკიდე ცეცხლი ამ დოკუმენტს.
+Host somebody./უმასპინძლო ვიღაცას.
+Have you been to the Netherlands?/ჰოლანდიაში ნამყოფი ხარ?
+Have you been to Africa?/ნამყოფი ხარ აფრიკაში?
+Your take on something./შენი აღქმა რაღაცის მიმართ.
+I am sure good things will come your way./მე დარწმუნებული ვარ რომ კარგი რაღაცეები დაგხვდება ცხოვრებაში(მოვა  შენს  გზაზე).
+John is not available now./ჯონი არ არის ხელმისაწვდომი ახლა.
+Is John available now?/არის ჯონი ხელმისაწვდომი ახლა?
+Avoid negative thinking./მოერიდეთ ნეგაიურ აზროვნებას.
+Dwell on something./ჩაიციკლო რაღაცაზე ფიქრში.
+Don’t dwell on the negatives when something goes wrong in your life./არ ჩაიციკლო ნეგატივებზე როცა რაღაცა ცუდი ხდება შენს ცხოვრებაში.
+Put yourself down./გაიკრიტიკო შენი თავი.
+Jump to conclusions./ნაადრევი დაკსვნები გამოიტანო.
+Don’t jump to negative conclusions./ნუ გამოიტანთ ნაადრევ ნეგატიურ დასკვნებს.
+Live and breathe something./საზრდოობდე რაღაცით.
+John lives and breathes jazz./ჯონი საზრდოობს ჯაზით.
+When John is giving a lesson there is no stopping him./როდესაც ჯონი გაკვეთილს ატარებს, ვერაფერი გააჩერებს მას.
+Deal with somebody./გაუმკლავდე ვიღაცას.
+Why are you being difficult today?/რატომ ხარ რთული დღეს?
+Why are you being so aggressive today?/რატომ ხარ ასეთი აგრესიული დღეს?
+Why are you being lazy today?/რატომ ხარ ზარმაცი დღეს?
+We are facing financial problems./ჩვენ ვდგავართ ფინანსური პრობლემების წინაშე.
+We are having technical problems./ტექნიკური პრობლემები გვაქვს.
+Don’t allow negative thoughts to run through your mind./არ მისცე ნეგატიურ აზრებს საშუალება რომ დატრიალდეს თქვენს გონებაში. (ფორმალური)
+See something in a bad light./უყურებდე რაღაცას ნეგატიურად. (bad Light)
+See something in a good light./უყურებდე რაღაცას პოზიტიურად. (Good light)
+Live up to something./გაამართლო რაღაცა.
+I want to live up to your expectations./მე მინდა გავამართლო შენი მოლოდინები. (Live up)
+I want to come up to your expectations./მე მინდა გავამართლო შენი მოლოდინები. (Come up)
+Set a deadline./დედლაინი დააწესო.
+Set a goal./მიზანი დაისახო.
+Set yourself a goal./მიზანი დაუსახო შენ თავს.
+Don’t forget to set your alarm clock./არ დაგავიწყდეს დააყენო შენი მაღვიძარა.
+Done is better than perfect./გაკეთებული უკეთესია, ვიდრე სრულყოფილი.

@@ -1,0 +1,44 @@
+Pulse/პულსი
+Check my pulse./შეამოწმე ჩემი პულსი.
+Even if you say sorry to me./მაშინაც კი თუ ბოდიშს მომიხდი.
+Logical/ლოგიკური
+Illogical/არალოგიკური
+Entrance/შესასვლელი
+Exit/გასასვლელი
+Where is the entrance to this building?/სად არის ამ შენობის შესასვლელი?
+Where is the exit from this building?/სად არის ამ შენობიდან გასასვლელი?
+How many people are watching us?/რამდენი ადამიანი გვიყურებს?
+Look into something./გამოიძიო რაღაც.
+Investigate something./გამოიძიო რაღაც. (ფორმალური)
+Kitten/კნუტი
+Puppy/ლეკვი
+We are preparing for this conference./ჩვენ ვემზადებით ამ კონფერენციისთვის. (ფორმალური)
+We are getting ready for this conference./ჩვენ ვემზადებით ამ კონფერენციისთვის.
+Shield/ფარი
+This will shield us from such things./ეს ჩვენ დაგცვიცავს ასეთი რაღაცისგან.
+Sword/ხმალი
+Dagger/ხანჯალი
+Stab somebody./დანა დაარტყა ვიღაცას.
+John was stabbed yesterday and that’s why he couldn’t call you./ჯონს გუშინ დანა დაარტყეს და ამიტომაც ვერ დაგირეკა.
+Barcode/შტრიხკოდი
+Lawn/გაზონი
+Draw/ხატვა
+I am almost there./მე თითქმის იქ ვარ.
+Thread/ძაფი
+Needle/ნემსი
+Crash into something./შეასკდე რაღაცას.
+Don’t crash into this tree./არ შეასკდე ამ ხეს.
+Invest in something./ფული დააბანდო რაღაცაში.
+I want to invest in your business./მე მინდა ფული ჩავდო შენს ბიზნესში.
+Balanced/გაწონასწორებული
+Sophisticated/დახვეწილი
+I am sure you will meet a lot of interesting people at this conference./დარწმუნებული ვარ შენ ბევრ საინტერესო ადამიანს გაიცნობ ამ კონფერენციაზე.
+Technology/ტექნოლოგია
+Gratitude/მადლიერება
+I want to express my gratitude to you for this./მე მინდა გამოვხატო ჩემი მადლიერება შენდამი ამისთვის.
+I can guarantee you that everything will be all right./შემიძლია გარანტია მოგცე, რომ ყველაფერი კარგად იქნება.
+Equality/თანასწორობა
+Inequality/უთანასწორობა
+I reserve the right to do this./მე ვიტოვებ უფლებას რომ გავაკეთო ეს.
+Approach/მიდგომა
+What we do every day is very important./რასაც ჩვენ ვაკეთებთ ყოველდღე არის ძალიან მნიშვნელოვანი.

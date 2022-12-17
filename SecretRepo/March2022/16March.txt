@@ -1,0 +1,47 @@
+Go blind./დაბრმავდე
+Go deaf./დაყრუვდე
+Vague/ბუნდოვანი
+What you said yesterday is vague./რაც შენ თქვი გუშინ არის ბუნდოვანი.
+Melt/გადნობა
+Your ice cream is melting./შენი ნაყინი დნება.
+Evaporate/აორთქლება
+You have achieved much at your age./შენ მიაღწიე ბევრს შენს ასაკში.
+We were driving at sixty kilometres per hour when I saw this car./სამოცი კილომეტრი საათში მივდიოდით როცა მე ეს მანაქანა ვნახე.
+Fuel/საწვავი
+Let’s not add fuel to the fire./მოდი ცეცხლზე ნავთი არ დაასხა.
+You added fuel to the fire when you said this./შენ ცეცხლზე ნავთი დაასხი როცა ეს თქვი.
+Innocent/უდანაშაულო
+I am innocent of this./მე უდანაშაულო ვარ ამაში.
+I am guilty of this./მე დამნაშავე ვარ ამაში.
+Intuition/ინტუიცია
+I know this intuitively./ინტუიციურად ვიცი ეს.
+We will be fined if we break the law./ჩვენ დაგვაჯარიმებენ თუ ჩვენ დავარღვევთ კანონს.
+I want the walls in this room to be yellowish./მინდა კედლები ამ ოთახში იყოს მოყვითალო.
+Give me a half-hour./ნახევარი საათი მომეცი.
+Give me an hour and a half./საათნახევარი მომეცი.
+Halve/განახევრება
+Double/გაორმაგება
+Triple/გასამმაგება
+Quadruple/გაოთხმაგება
+There is always a high demand for professionals like you./შენნაირ პროფესიონალებზე ყოველთვის დიდი მოთხოვნაა.
+Don’t be late for my lesson./არ დაიგვიანო ჩემს გაკვეთილზე.
+I am not going to take responsibility for this./მე არ ვაპირებ ავიღო პასუხისმგებლობა ამაზე.
+When are you going home?/როდის მიდიხარ სახლში?
+When are you leaving?/როდის მიდიხარ?
+When are you going to Italy?/როდის მიდიხარ იტალიაში?
+When are you going to work?/როდის მიდიხარ სამსახურში?
+This is confidential information./ეს არის კონფიდენციალური ინფორმაცია.
+Go to your head./თავში აგივარდეს.
+I don’t want your success to go to your head./არ მინდა შენი წარმატება თავში აგივარდეს.
+I always welcome constructive criticism./მე ყოველთვის მივესალმები კონსტრუქციულ კრიტიკას.
+I reserve the right to do this./მე ვიტოვებ უფლებას რომ გავაკეთო ეს.
+Push somebody to do something./დააძალო ვიღაცას გააკეთოს რაღაც. (Push)
+Let somebody do something./ნება დართო ვიღაცას გააკეთოს რაღაცას.
+Let me say something./ნება მომეცი ვთქვა რაღაც.
+Make somebody do something./აიძულო ვიღაცას გააკეთოს რაღაცას. (Make)
+I will make Julia sell this flat./მე ვაიძულობ ჯულიას გაყიდოს ეს ბინა.
+This car was stolen yesterday./ეს მანქანა მოიპარეს გუშინ.
+This window was broken by you yesterday./ეს ფანჯარა შენს მიერ იქნა გატეხილი.(ყვირილით)
+This car is under repair./ეს მანქანა რემონტის პროცესშია.
+I graduated from this university last year./მე დავამთავრე ეს უნივერსიტეტი წინა წელს.
+Don’t stress me out./ნუ მსტრესავ.

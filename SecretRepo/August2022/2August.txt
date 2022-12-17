@@ -1,0 +1,41 @@
+Planet/პლანეტა
+Universe/სამყარო
+World/მსოფლიო
+Unacceptable/მიუღებელი
+Your behaviour is unacceptable./შენი საქციელი არის მიუღებელი.
+Centimetre/სანტიმეტრი
+This book is five centimetres in width./ეს წიგნი არის ხუთი სატიმეტრი სიგანეში.
+You sound different today./შენ სხვანაირად ჟღერ დღეს.
+When did you last visit Argentina?/ბოლოს როდის ეწვიე არგენტინას?
+I visited Argentina seven days ago./მე ვეწვიე არგენტინას შვიდი დღის წინ.
+John is out of town./ჯონი არ არის ქალაქში. (Town)
+Float/ტივტივი
+Something is floating in the water./რაღაცა ტივტივებს წყალში.
+Don’t stand in the sun./ნუ დგეხარ მზეში.
+We were in the wind when you called us./ჩვენ ვიყავით ქარში, როცა დაგვირეკე.
+Don’t stand in the dark./ნუ დგახარ სიბნელეში.
+Dark blue./მუქი ლურჯი.
+Sky blue./ცისფერი
+The weather is good./კარგი ამინდია.
+What is John like as a teacher?/როგორი მასწავლებელია ჯონი?
+How many times have you been to Nice?/რამდენჯერ ხარ ნიცაში ნამყოფი?
+Have you read this book?/წაკითხული გაქვს ეს წიგნი?
+Have you been to our gym?/ნამყოფი ხარ ჩვენს სპორტდარბაზში?
+I have been to your office./მე ნამყოფი ვარ თქვენთან ოფისში.
+Such products are in abundance./ასეთი პროდუქტები უხვად არის.
+I didn’t call you yesterday, for which I apologise./გუშინ არ დაგირეკე, რისთვისაც ბოდიშს გიხდი. (Apologise)
+I call my mother every day./მე ვურეკავ დედაჩემს ყოველ დღე.
+Do I call my mother every day?/ვურეკავ დედაჩემს ყოველ დღე?
+I don’t call my mother every day./მე არ ვურეკავ დედაჩემს ყოველ დღე.
+Does John call his mother every day?/ურეკავს ჯონი დედამისს ყოველ დღე?
+I am calling my mother./დედაჩემს ვურეკავ.
+Am I calling my mother?/ვურეკავ დედაჩემს?
+I am going to call my mother tomorrow./ვაპირებ დედაჩემს დავურეკო ხვალ.
+I called my mother two minutes ago./მე დავურეკე დედაჩემს ორი წუთის წინ.
+I have just called my mother./ახალხანს დავურეკე დედაჩემს.
+I have been calling my mother for two minutes./ორი წუთია დედაჩემს ვურეკავ.
+I had just called my mother when you called me./დედაჩემთან ახალი დარეკილი მქონდა, როცა დამირეკე.
+I had just had a shower when you called me./შხაპი ახალი მიღებული მქონდა, როცა დამირეკე.
+I am sure when you come here, John will have just called me./მე დარწმუნებული ვარ როცა შენ აქ მოხვალ, ჯონს ახალი დარეკილი ექნება ჩემთან.
+Give somebody a loan./მისცე ვიღაცას სესხი.
+Grant somebody a loan./მისცე ვიღაცას სესხი. (ფორმალური)

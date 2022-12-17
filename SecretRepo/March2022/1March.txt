@@ -1,0 +1,71 @@
+Be similar to something./იყო მსგავსი რაღაცის.
+Your mobile phone is similar to mine./შენი მობილური ტელეფონი ჩემის მსგავსია.
+Be identical to something./იყო იდენტური რაღაცის.
+Be sensitive to something./იყო მგრძნობიარე რაღაცის მიმართ.
+Don’t be so sensitive to such things./ნუ ხარ ასეთი მგრძნობიარე ასეთი რაღაცეების მიმართ.
+Intend to do something./განზახული გქონდეს რაღაცის გაკეთება.
+I love doing such things./მიყვარს ასეთი რაღაცეების კეთება.(გერუნდი)
+I love to do such things./მიყვარს ასეთი რაღაცეების კეთება.(To+Infinitive)
+I prefer staying here./მირჩევნია აქ დავრჩე.(გერუნდი)(Prefer)
+I prefer to stay here./მირჩევნია აქ დავრჩე.(To+infinitive)(Prefer)
+I want to begin learning English./მე მინდა დავიწყო ინგლისურის სწავლა.(გერუნდი)(Begin)
+I want to begin to learn English./მე მინდა დავიწყო ინგლისურის სწავლა. (To+Infinitive)(Begin)
+I start to watch this film./ვიწყებ ამ ფილმის ყურებას. (To+Infinitive)(Start)
+I start watching this film./ვიწყებ ამ ფილმის ყურებას. (გერუნდი)(Start)
+I can’t stand reading such books./მე ვერ ვიტან ასეთი წიგნების წაკითხვას.(გერუნდი)(Can't stand)
+I can’t stand to read such books./მე ვერ ვიტან ასეთი წიგნების წაკითხვას.(To+Infinitive)(Can't stand)
+I hate doing such things./მეზიზღება ასეთი რაღაცეების კეთება.(გერუნდი)(Hate)
+I hate to do such things./მეზიღება ასეთი რაღაცეების კეთება.(To+Infinitive)(Hate)
+I continue to ask questions./მე ვაგრძელებ კითხვების დასმას.(To+Infinitive)(Continue)
+I continue asking questions./მე ვაგრძელებ კითხვების დასმას.(გერუნდი)(Continue)
+You look pensive./შენ ძალიან ჩაფიქრებული ჩანხარ.
+Diagnose/დიაგნოზი
+Misdiagnose/არასწორი დიაგნოზი.
+Understand/გაგება
+Misunderstand/არასწორად გაგება.
+Manage/მართვა
+Mismanage/არასწორი მართვა.
+Behave/ქცევა
+Misbehave/არასწორი ქცევა.
+Look at yourself in the mirror./ჩახედე შენს თავს სარკეში.
+Come out of your shell./შენი ნაჭუჭიდან გამოხვიდე.
+Don’t worry about John I am sure he will come out of his shell soon and start enjoying the party./არ იდარდო ჯონზე, მე დარწმუნებული ვარ ის მალე გადალახავს მის ჩაკეტილობას და მიიღებს სიამოვნებას წვეულებით.
+Dozens of books./ათობით წიგნი.
+Dozens of companies./ათობით კომპანია.
+Millions of dollars were spent on this project last year./მილიონობით დოლარი დაიხარჯა ამ პროექტზე წინა წელს.
+I have a good grasp of how this system works./კარგად ვიცი ეს სისტემა როგორ მუშაობს.
+I have a good grasp of English./კარგად ვიცი ინგლისური.
+Sign language./ჟესტების ენა.
+This experience will give you a whole new perspective on life./ეს გამოცდილება მოგცემს სრულიად ახალ პერსპექტივას ცხოვრებაზე.
+I have little interest in such things./ნაკლებად მაინტერესებს ასეთი რაღაცეები.
+Do you do any sports?/სპორტით ხარ დაკავებული?
+Do you eat fish every day?/ყოველდღე ჭამ თევზს?
+I see a fish./მე ვხედავ თევზს.
+Inform somebody about something./აცნობო ვიღაცას რაღაცის შესახებ.
+Notify somebody about something./შეატყობინო ვიღაცის რაღაცის შესახებ.
+Put pressure on somebody./ზეწოლა განახორციელო ვინმეზე.
+I expect more consistency from you./მე ველოდები შენგან მეტ თანმიმდევრულობას.
+Capacity/ტევადობა
+Work at full capacity./იმუშავო სრული დატვირთვით.
+This factory has been working at full capacity for three days./ეს ქარხანა სამი დღეა სრული დატვირთვით მუშაობს.
+Chat somebody up./შეაბა ვიღაც.
+Be a gray area./იყო გაურკვეველი. (Gray)
+Be addicted to something./რაღაცაზე იყო დამოკიდებული. (ნარკოტიკი)
+Julia is fighting her addiction to alcohol./ჯულია ახლა ებრძვის მის დამოკიდებულებას ალკოჰოლზე.
+I like doing such things they get the adrenaline flowing./მე მომწონს ამგვარი რაღაცეების კეთება, ისინი ადრენალინს გამოყოფენ.
+Be struggling to do something./გიჭირდეს რაღაცის გაკეთება.
+I am struggling to get enough rest but not successfully./მიჭირს მივიღო საკმარისი დასვენება, მაგრამ არაწარმატებულად.
+When life is busy we may think sleep is wasted time./როცა ცხოვრება დაკავებულია ჩვენ შეიძლება ვიფიქროთ რომ ძილი არის გაფლანგული დრო.
+A good night’s sleep is important./კარგი გამოძინება მნიშვნელოვანია.
+Overleaf/ფურლცის მეორე მხარე.
+I love you, don’t I?/მე შენ მიყვარხარ, არა?
+I don’t love you, do I?/მე შენ არ მიყვარხარ, არა?
+You are in Tbilisi, aren’t you?/თბილისში ხარ, არა?
+John was in Tbilisi when you called him, wasn’t he?/ჯონი იყო თბილისში როცა შენ მას დაურეკე, არა?
+I am in Tbilisi, aren’t I?/მე თბილისში ვარ, არა?
+There are many chairs in this room, aren’t there?/ამ ოთახში ბევრი სკამია, არა?
+There will be many beautiful buildings in Tbilisi in the future, won’t there?/თბილისში ბევრი ლამაზი შენობა იქნება მომავალში, არა?
+Everybody loves you in this organization, don’t they?/ყველას უყვარხარ ამ ორგანიზაციაში, არა?
+Everything is possible, isn’t it?/ყველაფერი შესაძლებელია, არა?
+I have no money, do I?/მე არ მაქვს ფული, არა?
+Nothing is impossible, is it?/არაფერია შეუძლებელი, არა?
